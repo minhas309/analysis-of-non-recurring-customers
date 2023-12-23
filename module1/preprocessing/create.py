@@ -3,7 +3,7 @@ import os
 
 def createDataSet():
     script_dir = os.path.dirname(__file__)
-    file_path = os.path.join(script_dir, '../data/electronics.json')
+    file_path = os.path.join(script_dir, '../../data/electronics.json')
 
     try:
         df = pd.read_json(file_path)
