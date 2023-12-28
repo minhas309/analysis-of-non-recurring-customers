@@ -1,6 +1,8 @@
 import pandas as pd
 from preprocessing.create import get_DataSet
 from data_cleaning import cleaning
+from transformation.minMaxScaling import normalization
+from transformation.zIndex import standardization
 
 invalid_values = ['', 'Hidden']
 
@@ -16,8 +18,12 @@ def module1():
     df = cleaning.forwardFillMethod(df, invalid_values, columns=['Year', 'Month', 'Age', 'Gender'])
     df = cleaning.dateTimeColumn(df)
 
-    # Data Transformation
     df.to_csv('cleaned/data.csv')
+
+    # Data Transformation
+    columns = ['Purchase_Amount', 'Average_Spending_Per_Purchase', 'Purchase_Frequency_Per_Month', 'Brand_Affinity_Score']
+    normalization(df, columns)
+    standardization(df, columns)
 
     return df
 
