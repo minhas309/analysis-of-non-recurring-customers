@@ -6,8 +6,9 @@ import matplotlib.pyplot as plt
 encoded_data = pd.read_csv('transformations/normalization.csv')
 
 # Filter for numeric columns
-numeric_columns = encoded_data.select_dtypes(include=['float64', 'int64']).columns
-clustering_data = encoded_data[numeric_columns]
+columns_to_cluster = ['mPurchase_Amount', 'Product_Category_Books',	'Product_Category_Clothing','Product_Category_Electronics',	'Income_Level_High',	'Income_Level_Low',	'Income_Level_Medium','Product_Category_Preferences_High',	'Product_Category_Preferences_Low',	'Product_Category_Preferences_Medium', 
+                      'mPurchase_Frequency_Per_Month', 'mBrand_Affinity_Score']
+clustering_data = encoded_data[columns_to_cluster]
 
 # Apply K-Means and find inertia
 inertia = []
