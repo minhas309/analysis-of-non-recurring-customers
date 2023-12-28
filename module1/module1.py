@@ -1,5 +1,5 @@
 import pandas as pd
-from preprocessing.create import createDataSet
+from preprocessing.create import get_DataSet
 from data_cleaning import cleaning
 
 invalid_values = ['', 'Hidden']
@@ -8,7 +8,7 @@ def module1():
 
     # Reading data from given dataset
     print('Data Acquisition: creating DataFrame')
-    df = createDataSet()
+    df = get_DataSet()
 
     # Data Cleaning
     df = cleaning.dropEmptyRows(df, invalid_values, columns=['Product_ID', 'Product_Category', 'Brand'])
