@@ -4,6 +4,7 @@ from data_cleaning import cleaning
 from transformation.minMaxScaling import normalization
 from transformation.zIndex import standardization
 from transformation.encoding import encoding
+from data_cleaning import outliers
 invalid_values = ['', 'Hidden']
 
 def module1():
@@ -17,6 +18,7 @@ def module1():
     df = cleaning.rowManipulation(df, invalid_values, columns=['Purchase_Amount', 'Average_Spending_Per_Purchase', 'Purchase_Frequency_Per_Month', 'Brand_Affinity_Score'])
     df = cleaning.forwardFillMethod(df, invalid_values, columns=[ 'Purchase_Date', 'Customer_ID','Address', 'Transaction_ID','Year', 'Month', 'Age', 'Gender', 'Income_Level', 'Product_Category_Preferences', 'Brand', 'Season'])
     df = cleaning.dateTimeColumn(df)
+    df = outliers.handlingOutliers(df, columns=['Purchase_Amount', 'Average_Spending_Per_Purchase', 'Purchase_Frequency_Per_Month', 'Brand_Affinity_Score'])
 
     df.to_csv('cleaned/data.csv')
 

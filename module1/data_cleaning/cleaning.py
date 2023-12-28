@@ -17,7 +17,7 @@ def rowManipulation(df, invalid_values, columns):
     # Convert specified columns to numeric
     df[columns] = df[columns].apply(pd.to_numeric, errors='coerce')
     # calculate medians
-    medians = df[columns].median()
+    medians = df[columns].mean()
     # fill data with medians
     df[columns] = df[columns].fillna(medians)
 
