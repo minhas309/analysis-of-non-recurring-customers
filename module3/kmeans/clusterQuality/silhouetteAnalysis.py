@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 def silhouetteAnalysis(clustering_data):
     # Range of k to try
-    range_n_clusters = list(range(2, 8))
+    range_n_clusters = list(range(2, 9))
 
     silhouette_avg_scores = []
 

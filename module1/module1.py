@@ -1,4 +1,3 @@
-import pandas as pd
 from preprocessing.create import get_DataSet
 from data_cleaning import cleaning
 from transformation.minMaxScaling import normalization
@@ -14,9 +13,9 @@ def module1():
     df = get_DataSet()
 
     # Data Cleaning
-    df = cleaning.dropEmptyRows(df, invalid_values, columns=['Product_ID', 'Product_Category'])
+    df = cleaning.dropEmptyRows(df, invalid_values, columns=['Product_Category'])
     df = cleaning.rowManipulation(df, invalid_values, columns=['Purchase_Amount', 'Average_Spending_Per_Purchase', 'Purchase_Frequency_Per_Month', 'Brand_Affinity_Score'])
-    df = cleaning.forwardFillMethod(df, invalid_values, columns=[ 'Purchase_Date', 'Customer_ID','Address', 'Transaction_ID','Year', 'Month', 'Age', 'Gender', 'Income_Level', 'Product_Category_Preferences', 'Brand', 'Season'])
+    df = cleaning.forwardFillMethod(df, invalid_values, columns=[ 'Product_ID', 'Purchase_Date', 'Customer_ID','Address', 'Transaction_ID','Year', 'Month', 'Age', 'Gender', 'Income_Level', 'Product_Category_Preferences', 'Brand', 'Season'])
     df = cleaning.dateTimeColumn(df)
     df = outliers.handlingOutliers(df, columns=['Purchase_Amount', 'Average_Spending_Per_Purchase', 'Purchase_Frequency_Per_Month', 'Brand_Affinity_Score'])
 
