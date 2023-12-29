@@ -10,21 +10,15 @@ def dropEmptyRows(df, invalid_values, columns):
     return df
 
 
-# Fill Empty Cells with Column Medians
 def rowManipulation(df, invalid_values, columns):
-    # Convert invalid values to NaN
     df[columns] = df[columns].replace(invalid_values, pd.NA)
-    # Convert specified columns to numeric
     df[columns] = df[columns].apply(pd.to_numeric, errors='coerce')
-    # calculate medians
-    medians = df[columns].mean()
-    # fill data with medians
+    medians = df[columns].median()
     df[columns] = df[columns].fillna(medians)
 
     return df
 
 def forwardFillMethod(df, invalid_values, columns):
-    # Fill empty cell by forward fill method to avoid mean centric data and have some randomness in data
     df[columns] = df[columns].replace(invalid_values, pd.NA).fillna(method='ffill')
 
     return df

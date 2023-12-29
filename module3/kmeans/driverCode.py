@@ -18,7 +18,7 @@ def kMeansDriverCode(data, cluster_data):
     silhouetteAnalysis.silhouetteAnalysis(clustering_data=cluster_data)
 
     # K-Means
-    data = kmeans.kMeansAlgorithm(data, clustering_data=cluster_data, clusters=6)
+    data = kmeans.kMeansAlgorithm(data, clustering_data=cluster_data, clusters=7)
 
     # Plotting 
     brandAffinityPerCluster(data)

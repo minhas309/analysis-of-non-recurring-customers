@@ -5,7 +5,7 @@ import seaborn as sns
 import numpy as np
 from sklearn.decomposition import PCA
 
-def kMeansAlgorithm(data, clustering_data, clusters):
+def kMeansAlgorithmPP(data, clustering_data, clusters):
     # Define the number of clusters
     k_optimal = clusters
 

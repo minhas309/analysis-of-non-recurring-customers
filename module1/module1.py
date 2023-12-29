@@ -20,10 +20,12 @@ def module1():
     df = outliers.handlingOutliers(df, columns=['Purchase_Amount', 'Average_Spending_Per_Purchase', 'Purchase_Frequency_Per_Month', 'Brand_Affinity_Score'])
 
     df.to_csv('cleaned/data.csv')
+    print(df.head())
 
     # Data Transformation
     # Encoding
     df = encoding()
+    print(df.head())
     columns = ['Purchase_Amount', 'Average_Spending_Per_Purchase', 'Purchase_Frequency_Per_Month', 'Brand_Affinity_Score']
     normalization(df, columns)
     standardization(df, columns)
