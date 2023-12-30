@@ -1,14 +1,16 @@
 from sklearn.preprocessing import StandardScaler
+import pandas as pd
 
-def standardization(df, columns):
+def standardization(df, columns_to_drop):
     # Create a StandardScaler object
     scaler = StandardScaler()
 
-    # Add a prefix 'z' to each column name in numeric_columns
-    new_columns = ['z' + column for column in columns]
-
-    # Apply Z-score standardization to the specified columns and create new columns
-    df[new_columns] = scaler.fit_transform(df[columns])
-
+    df_ = df.drop(columns=columns_to_drop)
+    column_names = df_.columns
+    scaled_data = scaler.fit_transform(df_)
+    dataFrame = pd.DataFrame(scaled_data, columns=column_names, index=df.index)
+    
     # save the DataFrame after standardization
-    df.to_csv('transformations/standardization.csv')
+    dataFrame.to_csv('transformations/standardization.csv')
+
+    print(dataFrame.tail())

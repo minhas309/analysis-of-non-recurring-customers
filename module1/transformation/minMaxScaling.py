@@ -1,15 +1,16 @@
 from sklearn.preprocessing import MinMaxScaler
 import pandas as pd
 
-def normalization(df, columns):
-    # Create a MinMaxScaler object
+def normalization(df, columns_to_drop):
     scaler = MinMaxScaler()
 
-    # Add a prefix 'm' to each column name in numeric_columns
-    new_columns = ['m' + column for column in columns]
+    # Dropping non-numeric and non-relevant columns
+    df_ = df.drop(columns=columns_to_drop)
+    column_names = df_.columns
+    scaled_data = scaler.fit_transform(df_)
+    normalized_df = pd.DataFrame(scaled_data, columns=column_names, index=df.index)
 
-    # Apply Min-Max scaling to the specified columns
-    df[new_columns] = scaler.fit_transform(df[columns])
+    normalized_df.to_csv('transformations/normalization.csv')
+    print(normalized_df.tail())
 
-    # save the DataFrame after normalization
-    df.to_csv('transformations/normalization.csv')
+
