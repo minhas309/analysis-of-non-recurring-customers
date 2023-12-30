@@ -12,5 +12,3 @@ def standardization(df, columns_to_drop):
     
     # save the DataFrame after standardization
     dataFrame.to_csv('transformations/standardization.csv')
-
-    print(dataFrame.tail())

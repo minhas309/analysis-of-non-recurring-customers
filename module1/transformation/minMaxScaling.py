@@ -11,6 +11,3 @@ def normalization(df, columns_to_drop):
     normalized_df = pd.DataFrame(scaled_data, columns=column_names, index=df.index)
 
     normalized_df.to_csv('transformations/normalization.csv')
-    print(normalized_df.tail())
-
-
