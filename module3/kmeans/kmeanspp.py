@@ -5,7 +5,7 @@ import seaborn as sns
 import numpy as np
 from sklearn.decomposition import PCA
 
-def kMeansAlgorithm(data, clustering_data, clusters):
+def kMeansAlgorithmPP(data, clustering_data, clusters):
     # Define the number of clusters
     k_optimal = clusters
 
@@ -14,7 +14,7 @@ def kMeansAlgorithm(data, clustering_data, clusters):
     reduced_data = pca.fit_transform(clustering_data)
 
     # Implement K-Means
-    kmeans = KMeans(n_clusters=k_optimal, init='random', random_state=0)
+    kmeans = KMeans(n_clusters=k_optimal, init='k-means++', random_state=0)
     cluster_labels = kmeans.fit_predict(reduced_data)
 
     # Adding cluster labels to the dataset for analysis

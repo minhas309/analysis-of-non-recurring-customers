@@ -3,8 +3,8 @@ import seaborn as sns
 import numpy as np
 
 def scatter3DPlot(data):
-    brand_encoded_cols = [col for col in data.columns if 'Brand_Brand_' in col]
-    brand_affinity_scores = data['mBrand_Affinity_Score']  # Replace with your actual column name
+    brand_encoded_cols = [col for col in data.columns if 'Product_Category_' in col]
+    brand_affinity_scores = data['mBrand_Affinity_Score'] 
     clusters = data['Cluster']
 
     # Create a numerical representation for brand names (e.g., 0, 1, 2, ...)
@@ -17,9 +17,9 @@ def scatter3DPlot(data):
     # Plotting data
     scatter = ax.scatter(brand_indices, brand_affinity_scores, clusters, c=brand_affinity_scores, cmap='viridis', marker='o')
     ax.set_xticks([0, 1, 2])
-    ax.set_xticklabels(['A', 'B', 'C'])
+    ax.set_xticklabels(['Books', 'Clothing', 'Electronics'])
     # Adding labels and title
-    ax.set_xlabel('Brand')
+    ax.set_xlabel('Product')
     ax.set_ylabel('Brand Affinity Score')
     ax.set_zlabel('Cluster')
     plt.title('3D Plot of Brand Affinity, Encoded Brands, and Clusters')
@@ -27,5 +27,5 @@ def scatter3DPlot(data):
     # Adding a color bar
     cbar = plt.colorbar(scatter)
     cbar.set_label('Cluster')
-
+    
     plt.show()

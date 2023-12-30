@@ -7,7 +7,6 @@ def encoding():
     file_path = os.path.join(script_dir, '../../cleaned/data.csv')
     df = pd.read_csv(file_path)
 
-    # Create a OneHotEncoder object, and ignore unknown categorical values
     encoder = OneHotEncoder(sparse=False, handle_unknown='ignore')
 
     # Encode the categorical values as numeric using one-hot encoding
