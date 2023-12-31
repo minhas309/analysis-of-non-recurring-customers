@@ -4,7 +4,7 @@ import numpy as np
 
 def scatter3DPlot(data):
     brand_encoded_cols = [col for col in data.columns if 'Product_Category_' in col]
-    brand_affinity_scores = data['mBrand_Affinity_Score'] 
+    brand_affinity_scores = data['Brand_Affinity_Score'] 
     clusters = data['Cluster']
 
     # Create a numerical representation for brand names (e.g., 0, 1, 2, ...)

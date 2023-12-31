@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 def brandAffinityPerCluster(data):
-    brand_affinity_cols = [col for col in data.columns if 'mBrand_Affinity_' in col]
+    brand_affinity_cols = [col for col in data.columns if 'Brand_Affinity_' in col]
     clustered_brand_affinity = data.groupby('Cluster')[brand_affinity_cols].mean()
     clustered_brand_affinity_transposed = clustered_brand_affinity.transpose()
 

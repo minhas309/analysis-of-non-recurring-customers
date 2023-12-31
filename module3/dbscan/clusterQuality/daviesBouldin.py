@@ -5,19 +5,17 @@ import pandas as pd
 
 # Read your dataset into a DataFrame
 data = pd.read_csv('transformations/normalization.csv')
+data.drop(['Unnamed: 0'], axis=1, inplace=True)
 
-# Specify the columns to cluster
-columns_to_cluster = ['mPurchase_Frequency_Per_Month', 'mBrand_Affinity_Score', 'mAverage_Spending_Per_Purchase', 'mPurchase_Amount']
-clustering_data = data[columns_to_cluster]
 # Perform DBScan clustering
-dbscan = DBSCAN(eps=0.1, min_samples=1)
-labels = dbscan.fit_predict(clustering_data)
+dbscan = DBSCAN(eps=0.5, min_samples=1)
+labels = dbscan.fit_predict(data)
 
 # Compute cluster centers and dispersion
 cluster_centers = []
 cluster_dispersions = []
 for label in np.unique(labels):
-    cluster_points = clustering_data[labels == label]
+    cluster_points = data[labels == label]
     center = np.mean(cluster_points, axis=0)
     dispersion = np.mean(pairwise_distances(cluster_points, [center]))
     cluster_centers.append(center)

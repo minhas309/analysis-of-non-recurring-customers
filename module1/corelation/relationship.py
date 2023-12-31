@@ -3,9 +3,9 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Read your dataset into a DataFrame
-data = pd.read_csv('cleaned/data.csv')
-columns_to_cluster = ['Purchase_Amount', 'Purchase_Frequency_Per_Month', 'Brand_Affinity_Score', 'Average_Spending_Per_Purchase', 'Age', 'Year', 'Month']
-clustering_data = data[columns_to_cluster]
+data = pd.read_csv('transformations/normalization.csv')
+columns_to_drop = ['Unnamed: 0', 'Customer_ID', 'Address', 'Transaction_ID', 'Purchase_Date', 'Product_ID', 'Brand', 'Month', 'Year', 'Season']
+clustering_data = data 
 # Calculate the correlation matrix
 correlation_matrix = clustering_data.corr()
 

@@ -34,9 +34,9 @@ def kMeansAlgorithmPP(data, clustering_data, clusters):
         print(f"Cluster {cluster} characteristics:")
         
         # Calculate and display key features of each cluster
-        average_purchase = cluster_data['mPurchase_Amount'].mean()
-        average_frequency = cluster_data['mPurchase_Frequency_Per_Month'].mean()
-        average_brand_affinity = cluster_data['mBrand_Affinity_Score'].mean()
+        average_purchase = cluster_data['Purchase_Amount'].mean()
+        average_frequency = cluster_data['Purchase_Frequency_Per_Month'].mean()
+        average_brand_affinity = cluster_data['Brand_Affinity_Score'].mean()
 
         print(f"Average Purchase Amount: {average_purchase}")
         print(f"Average Purchase Frequency Per Month: {average_frequency}")

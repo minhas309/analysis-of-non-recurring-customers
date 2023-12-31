@@ -31,8 +31,10 @@ Melissastad, CT 24671",f041ba89-03f7-450d-8fbc-875428760b76,2021-11-21,b15ff4ac-
 Chloebury, AL 01960",4c45da65-bd62-486e-aeff-31f8959e0987,2023-06-03,e47f58c8-c6e9-40ed-9ce8-31af73b91fb5,Electronics,Brand_B,272.0,18.0,10.0,3.0,Medium,04,2019,Winter
 16,309ab6ee-9364-4a64-9785-77717415ed5f,22,Male,High,"80014 Ayers Extension Apt. 361
 Smithtown, WY 51720",62001db5-24fa-49d8-b570-928124a181d9,2022-01-07,b66cae99-a5b0-4ca9-9aff-6f57ff1bf421,Electronics,Brand_B,241.0,26.0,8.0,5.0,Medium,09,1978,Summer
-18,24cf182e-d0e2-4022-97b1-5c7ebc31023b,57,Male,Medium,"80014 Ayers Extension Apt. 361
-Smithtown, WY 51720",b08f3381-9a24-4381-b753-b9b48531145e,2022-02-02,5c301ae0-6255-483e-a307-74140013a543,Books,Brand_B,242.0,49.0,9.0,1.0,High,05,2003,Summer
+17,ffb65cd7-4329-4abb-b076-05eb7cf933e0,68,Female,High,"7417 Gregory Garden
+Jordanborough, MT 88106",27a18611-855f-4db3-ad4e-77b008695f09,2022-06-25,b66cae99-a5b0-4ca9-9aff-6f57ff1bf421,Electronics,Brand_B,115.0,31.0,4.0,4.0,Low,10,1972,Summer
+18,24cf182e-d0e2-4022-97b1-5c7ebc31023b,57,Male,Medium,"7417 Gregory Garden
+Jordanborough, MT 88106",b08f3381-9a24-4381-b753-b9b48531145e,2022-02-02,5c301ae0-6255-483e-a307-74140013a543,Books,Brand_B,248.0,49.0,9.0,1.0,High,05,2003,Summer
 20,34f7ac8d-fd91-4813-bf4d-e7b18264e442,73,Female,High,"12604 Mcdowell Canyon
 New Angelview, TN 16808",b6c5589a-483a-403f-9cf2-b0ae77b15fbf,2021-11-27,70729d29-d37a-4bda-9081-c49d9dd47f30,Electronics,Brand_C,370.0,13.0,2.0,8.0,High,05,1991,Summer
 21,88601ef4-484f-40e4-a727-9a8667ca4985,27,Female,Medium,"05410 Jennifer Vista Suite 523
@@ -72,19 +74,23 @@ Nelsonmouth, FL 53435",296b0239-90cc-4ba3-8bf9-52e6899f4146,2020-05-23,c5253ea0-
 38,47b0a646-8ae7-4ec2-851e-46076e6f9083,50,Female,High,"49248 Robertson Throughway Suite 145
 South Vanessaberg, AL 33149",e59c11db-5cc2-4029-9342-96ab9d1d0638,2022-04-02,d51ad786-9d7e-4df3-b2a8-fab631da6898,Books,Brand_C,176.0,46.0,2.0,7.0,High,01,1988,Spring
 39,47b0a646-8ae7-4ec2-851e-46076e6f9083,38,Female,Low,"52357 Mcconnell Wall
-West Kyleville, FM 98867",d93648c8-2280-4319-bb48-e9ab704ca14f,2020-01-18,6ae3fd14-a281-4c86-b470-6b12060477bc,Clothing,Brand_A,242.0,51.0,3.0,5.0,Low,09,2010,Summer
+West Kyleville, FM 98867",d93648c8-2280-4319-bb48-e9ab704ca14f,2020-01-18,6ae3fd14-a281-4c86-b470-6b12060477bc,Clothing,Brand_A,248.0,51.0,3.0,5.0,Low,09,2010,Summer
 40,b6f8eec2-45e6-4095-a902-a2c055abd0ed,66,Female,Low,"3273 Christina Springs Suite 794
 Aprilview, TX 35414",0880a906-b169-4226-b5fa-265e163ae09d,2020-07-27,19197c6e-9271-4750-a07b-4b3b5e14da59,Books,Brand_A,290.0,30.0,3.0,9.0,Low,10,1992,Summer
 41,1fef3e6a-d744-4e6f-9983-f63848056623,64,Other,Low,"534 Edwards Skyway Apt. 747
 Port Tonyastad, NY 72603",421b5d92-5fc9-4fda-9b9a-7b5b345518af,2023-11-19,66c73737-2280-482a-9d50-a763917bd515,Electronics,Brand_A,367.0,11.0,4.0,7.0,High,12,1992,Fall
 42,770efdf7-649f-4630-8c21-81b1769bbc22,51,Male,High,"Unit 4499 Box 4360
 DPO AE 45182",91c4bc92-36a3-4d05-9ba7-0f6833a75144,2021-01-23,8a94337d-ed25-4625-bacb-288cdfba1d4e,Electronics,Brand_B,208.0,5.0,4.0,6.0,High,12,1995,Summer
+43,62d231e3-a9d8-4511-86f8-dc3907b4b012,23,Male,High,"Unit 9727 Box 1641
+DPO AE 52220",c48a8cf8-9452-41fb-aa72-2afa50b88da8,2023-04-07,8a94337d-ed25-4625-bacb-288cdfba1d4e,Electronics,Brand_C,381.0,89.0,5.0,8.0,Low,07,1986,Fall
 44,e34e2510-9c78-4500-ad11-ef68d371614e,33,Male,High,"86065 Yvette Viaduct
-Burnettfurt, MD 48183",c82b4379-3210-4cc2-9755-128ec43cbf52,2022-12-01,d37e8970-762d-482c-bb4e-7f803b22b7c1,Clothing,Brand_C,242.0,80.0,4.0,4.0,High,06,2013,Winter
+Burnettfurt, MD 48183",c82b4379-3210-4cc2-9755-128ec43cbf52,2022-12-01,d37e8970-762d-482c-bb4e-7f803b22b7c1,Clothing,Brand_C,248.0,80.0,4.0,4.0,High,06,2013,Winter
 45,30deefb7-9854-4dad-b41c-d265257f6611,61,Male,High,"06202 Parker Terrace
 New Joshuatown, GA 11112",2c47b18c-3714-47cb-9e80-32cd0d14f794,2021-05-04,f39a420f-0362-42c2-b2e5-ac44c98b599a,Electronics,Brand_C,487.0,51.0,2.0,7.0,Medium,05,2003,Winter
+46,dfecc88c-862c-4f44-8aad-6db70c360fd4,23,Other,Low,"5317 Green Mall
+North Debra, FM 79968",b4f72a03-f38c-4258-8710-f67ba022cb0f,2021-12-08,f39a420f-0362-42c2-b2e5-ac44c98b599a,Electronics,Brand_B,231.0,58.0,10.0,6.0,Low,03,2002,Fall
 47,6c4791cf-e915-4215-89f3-984b18f4d43b,56,Female,Medium,"55489 Zachary Radial Apt. 102
-Jensenchester, DC 90358",e6a994dd-0800-42af-b465-3c81a5c73e6c,2022-04-30,258ded30-c8c6-4590-a1a9-41e2d9a1d765,Electronics,Brand_C,121.0,32.0,10.0,2.0,High,04,1992,Fall
+Jensenchester, DC 90358",e6a994dd-0800-42af-b465-3c81a5c73e6c,2022-04-30,258ded30-c8c6-4590-a1a9-41e2d9a1d765,Electronics,Brand_B,121.0,32.0,10.0,2.0,High,04,1992,Fall
 48,f3c06ff9-706b-421c-af92-f689c5103a48,34,Male,Low,"PSC 1977, Box 5791
 APO AP 14099",0a07d639-c2e3-48d6-b740-216719b74c88,2023-09-12,c14cb3a4-a9df-474e-9802-38a8030262c8,Electronics,Brand_B,373.0,96.0,2.0,6.0,High,07,1972,Spring
 49,95fd4988-f305-4306-ab2b-6be837bf8d47,74,Male,Low,"5584 Green Stravenue
@@ -101,14 +107,16 @@ East Williamchester, WY 13139",7bee9463-80f3-4e42-851a-171b28393011,2021-07-01,c
 East Williamchester, WY 13139",7a478705-c928-424d-b7c1-a3ea778578c2,2023-09-10,3ca39ee8-5880-48f4-b97b-d66a0586e97b,Books,Brand_B,53.0,80.0,5.0,8.0,Low,08,2007,Spring
 56,b96dbc97-21c0-446b-8dcb-03d6729485ef,76,Other,High,"247 Walker Grove Suite 150
 Barbaramouth, HI 73871",9549b7d9-09f8-4eca-b229-08a6d4a2df43,2023-09-09,b20800f8-93f8-4aaa-b13d-a8e14e070a25,Books,Brand_A,330.0,57.0,8.0,4.0,High,04,1974,Spring
+57,a1621e71-01e6-4fab-9c52-5a61dda50413,58,Other,High,"288 Ayala Gardens
+Jesustown, NV 96014",24482ac2-bcc8-4610-9bf7-65efb385dd80,2020-06-07,b20800f8-93f8-4aaa-b13d-a8e14e070a25,Clothing,Brand_C,342.0,84.0,7.0,1.0,Low,10,1975,Fall
 58,679b43c1-705f-420a-ab06-6e1afa8bdead,69,Other,High,"680 Spencer Skyway
-East Virginiachester, HI 86581",6debf182-792a-46ec-9b4e-cbe253590bd2,2020-12-30,2288a6f4-687c-453f-bce2-70753e26c8a7,Clothing,Brand_B,190.0,49.0,2.0,2.0,Medium,04,1990,Spring
+East Virginiachester, HI 86581",6debf182-792a-46ec-9b4e-cbe253590bd2,2020-12-30,2288a6f4-687c-453f-bce2-70753e26c8a7,Clothing,Brand_B,190.0,49.0,2.0,2.0,Medium,04,1990,Fall
 59,db9066b6-ec48-4d26-91e9-42dafd993f95,67,Other,High,"386 Walter Mission Suite 722
 Port Stacey, ND 59110",affb1744-969b-4bce-87d0-e54e251ea070,2021-09-03,21946517-e547-4725-9fa6-35091ffe8c65,Clothing,Brand_B,435.0,57.0,4.0,3.0,Low,11,1995,Spring
 60,12c1a84c-3cec-4afd-bed8-b42bc9653373,57,Other,High,"82002 Brianna Unions
 Tracyfurt, CA 33611",9b97a731-9401-44e2-8568-d3da5a42c76e,2021-01-18,4d56e07b-fa2e-4e8a-8b52-5d8dfb4b0c04,Electronics,Brand_A,353.0,25.0,9.0,7.0,Low,11,1996,Winter
 61,d8977215-5dff-47b4-b9c5-6ba93ee6f8ee,78,Other,High,"2656 Smith Mills
-Kristinaton, MO 45718",26064172-624e-4db0-af76-954e6080a19f,2021-03-12,936d9c66-3672-4e53-b042-d96f6054376e,Electronics,Brand_A,242.0,18.0,3.0,6.0,Low,03,2006,Fall
+Kristinaton, MO 45718",26064172-624e-4db0-af76-954e6080a19f,2021-03-12,936d9c66-3672-4e53-b042-d96f6054376e,Electronics,Brand_A,248.0,18.0,3.0,6.0,Low,03,2006,Fall
 62,02e27bf9-dd37-49ab-8b4c-51b4a7f80284,48,Other,Medium,"390 Linda Plaza
 New Kristin, MN 31436",09b76b10-fb1a-40c6-9024-296a1b58cad2,2021-10-08,9724b7f2-bba5-4060-8e46-493d80c8a8c8,Electronics,Brand_A,327.0,13.0,5.0,1.0,High,02,2017,Fall
 64,310ffe44-df9d-42c8-b4b6-b73ece1db7fd,59,Female,Low,"7871 Kristie Views
@@ -121,6 +129,8 @@ Davidstad, AS 99027",5b745649-9761-4617-8268-03f018123912,2022-02-17,d8aa805d-51
 Millerport, VT 46653",5b745649-9761-4617-8268-03f018123912,2022-02-17,2dda6fe5-5910-4bc1-b7ef-89f7b0d4d267,Clothing,Brand_B,197.0,26.0,7.0,10.0,Low,02,2013,Winter
 68,44082b12-e792-42a3-8b1f-0f7ee7feca33,79,Other,Medium,"4810 Robinson Point Apt. 117
 Pattersonburgh, MO 34660",3ed0b3d3-9344-41c8-a3b4-8c81e39a8fd3,2020-09-30,87d3dabf-49e7-4095-9301-481e548dfece,Electronics,Brand_B,16.0,47.0,10.0,3.0,Low,08,1974,Winter
+69,27697d58-bf22-4540-8e31-5aa8084b52da,55,Male,Low,"566 Christensen Cove
+Kramertown, AZ 94038",0b806ed3-4f00-493c-a47d-f894aa481fd7,2020-02-04,87d3dabf-49e7-4095-9301-481e548dfece,Clothing,Brand_B,465.0,35.0,5.0,7.0,Low,12,1980,Winter
 70,f20ccb03-bfe2-45e7-9610-e90da21c1d69,46,Female,Medium,"87063 Claudia Crossroad
 East Vanessaview, DE 22501",9b46388e-be5b-41a8-9f5f-696927191c56,2023-09-05,6ed19df1-01ac-419d-84c8-c20420f630f3,Books,Brand_C,263.0,30.0,10.0,9.0,High,11,1989,Winter
 71,9bfe18d3-3e24-46fc-8dd2-0ef80255d378,56,Female,Low,"3244 Erica Divide Suite 280
@@ -164,9 +174,11 @@ Hoodstad, UT 48530",664aab14-fc5a-4bf9-8ada-212ac5f401c7,2023-10-02,b96f228e-668
 90,7e986be5-2b8f-4ff7-b477-18084f7fd2e0,19,Male,High,"95550 Walker Plaza Apt. 731
 Port Daniel, CT 74720",ec353651-66fd-4710-8a96-17b2a248305f,2022-03-15,94a3ba00-1356-4fc5-b5e0-d2e53ebe36ad,Clothing,Brand_C,439.0,71.0,3.0,2.0,Medium,12,2004,Summer
 91,525aac7e-f3b4-4770-8a99-4e87508fdab8,58,Female,High,"Unit 0362 Box 5403
-DPO AP 09666",f4d1e7c4-8993-48ea-97b2-564fb0080db2,2021-05-09,e178347b-30a7-4a0b-96d2-9ed36f764c5c,Electronics,Brand_B,242.0,33.0,5.0,6.0,Medium,11,1998,Summer
+DPO AP 09666",f4d1e7c4-8993-48ea-97b2-564fb0080db2,2021-05-09,e178347b-30a7-4a0b-96d2-9ed36f764c5c,Electronics,Brand_B,248.0,33.0,5.0,6.0,Medium,11,1998,Summer
+92,5d6a9b80-98ff-44f2-bc2f-f25980680ed9,80,Male,Medium,"8244 Brianna Path
+Millerfurt, AZ 63333",b86ba3f8-c90a-4f2d-8bda-3f36c32b8c33,2023-07-04,e178347b-30a7-4a0b-96d2-9ed36f764c5c,Books,Brand_B,129.0,50.0,10.0,5.0,Medium,07,1995,Summer
 93,4a054725-fef1-4187-932f-779e1e4f916f,33,Other,Medium,"1999 Leslie Knolls
-Terranceport, DC 31539",26018670-3204-4854-8493-a70ff449aa52,2023-11-18,4349d828-e9a2-4da1-9a72-37c19a19f75f,Books,Brand_A,50.0,12.0,10.0,3.0,Low,11,1991,Winter
+Terranceport, DC 31539",26018670-3204-4854-8493-a70ff449aa52,2023-11-18,4349d828-e9a2-4da1-9a72-37c19a19f75f,Books,Brand_A,50.0,12.0,10.0,3.0,Low,07,1991,Winter
 94,67042955-cd46-486e-98d8-77e619bc0c10,48,Other,Low,"1921 Leslie Isle
 Earlchester, DC 17036",5934a92e-a52c-4bc1-8278-fe276ceed4b5,2023-05-31,0bc351c8-0baa-44bb-8950-d191a3628aa1,Electronics,Brand_B,359.0,65.0,6.0,7.0,Low,04,1989,Winter
 95,bc4a84da-0ba9-4f14-ba5a-552f3ca2f783,21,Male,High,"Unit 4100 Box 9099
@@ -191,6 +203,8 @@ East Melanie, NM 47839",3745041f-2732-47ec-b1a7-aa3b225d751e,2021-05-01,b8c12f3c
 Port Kevinbury, WI 10138",27fc2d4f-f616-49ce-aef4-88255a1111e6,2023-06-25,5758957d-e2f0-4749-9e8f-bb3e96c99f17,Clothing,Brand_C,253.0,74.0,8.0,3.0,High,03,1977,Spring
 106,fc5d7b81-b26b-49f7-bbc5-d66eb3d06cf5,33,Female,Low,"91151 Emily Flats Apt. 333
 New Wayne, MN 04291",38ed9cc1-9c48-4510-b974-26d40889e7bc,2022-11-04,3625683b-a716-4fe7-96c1-da91c7444957,Electronics,Brand_C,260.0,39.0,10.0,6.0,Low,05,1971,Fall
+107,9e4020eb-2590-4da9-9fcf-088114b09de0,66,Other,Medium,"4596 Christopher Lake
+New Cassandraview, MP 67632",38ed9cc1-9c48-4510-b974-26d40889e7bc,2022-06-15,3625683b-a716-4fe7-96c1-da91c7444957,Clothing,Brand_B,498.0,62.0,5.0,6.0,Medium,05,2006,Winter
 108,69a93c72-9137-4d35-9145-434a81ff3638,20,Male,Medium,"72049 Larry Landing
 Jimmymouth, FL 72005",d54c28f7-2930-4cc8-afd9-b129c8195fb0,2020-07-11,7713f519-a344-460b-8491-acc93a5a2c93,Electronics,Brand_A,78.0,40.0,10.0,8.0,Low,03,2011,Winter
 110,140ef8e3-29a7-4603-a9af-6d368ed51737,20,Other,Low,"6963 Cooke Pike
@@ -234,7 +248,7 @@ Port Steven, PR 14416",63766f4f-687e-4d3d-9873-424f646ccbed,2021-12-10,6c11db95-
 131,19a731f1-8545-44ad-a94c-0ff2c3870a4d,43,Other,Medium,"PSC 4610, Box 4894
 APO AE 60088",97bfc790-6bed-42bd-8d96-b882c4b66dc7,2021-06-29,ee72e99c-9492-4056-b983-cbd3f43ecc6c,Clothing,Brand_A,21.0,32.0,3.0,9.0,Low,10,2009,Fall
 132,a3b453e3-c788-414f-ad27-c979827883c0,62,Male,Low,"187 Holly Via Suite 961
-South Cassandra, VA 21942",825c45b3-bc70-48f0-a6af-e91612e831d1,2021-08-14,4a03f346-582a-460b-8cb3-81f1824ae09e,Electronics,Brand_A,242.0,26.0,2.0,10.0,High,09,2007,Winter
+South Cassandra, VA 21942",825c45b3-bc70-48f0-a6af-e91612e831d1,2021-08-14,4a03f346-582a-460b-8cb3-81f1824ae09e,Electronics,Brand_A,248.0,26.0,2.0,10.0,High,09,2007,Winter
 133,18d17fac-1524-492f-b708-e23e202567ac,42,Other,Medium,"76107 Mckinney Plains Suite 481
 Molinafurt, WY 83534",d6eaa948-f7e3-4f4a-a302-f010c11f0e01,2021-11-23,a6e86427-ee83-437b-8ce8-8869e62100a4,Electronics,Brand_C,292.0,62.0,3.0,8.0,Medium,11,1990,Winter
 134,3decd5f7-b8df-485c-bc0b-65cd750f9ecf,56,Female,Low,"PSC 0748, Box 6994
@@ -242,7 +256,7 @@ APO AA 56085",0c5e91a1-e129-4af5-9823-1424118dbb39,2022-12-27,e4215378-7c24-4f17
 135,7f2eca2b-ae6f-49ed-95f5-91faf27290d3,45,Other,Low,"473 Tracy Plains Suite 151
 Lake Tinastad, MP 69242",daffa458-3d52-4b9f-9db2-a9e8851a568e,2020-12-06,bfc5d2c7-d3f7-48ea-a47c-367720df4979,Electronics,Brand_B,326.0,18.0,9.0,6.0,Low,12,1997,Spring
 136,80a0cd83-d083-48b8-b6d9-c460f3e70350,76,Male,Low,"USS Miller
-FPO AP 59134",daffa458-3d52-4b9f-9db2-a9e8851a568e,2023-05-27,13c9bf61-3f62-4edd-8dd4-1972a5e2df91,Books,Brand_C,242.0,21.0,4.0,5.0,Low,12,2001,Winter
+FPO AP 59134",daffa458-3d52-4b9f-9db2-a9e8851a568e,2023-05-27,13c9bf61-3f62-4edd-8dd4-1972a5e2df91,Books,Brand_C,248.0,21.0,4.0,5.0,Low,12,2001,Winter
 137,a052a05e-1f6f-49c6-b33c-1fcf945d0c66,53,Other,Medium,"85074 Harvey Squares
 Coreyland, MI 54513",4c2a1d57-a9ce-43bf-8fd7-1f5db185393f,2021-07-22,ac6cb68c-595f-407d-b83f-20ba374d3640,Clothing,Brand_C,349.0,60.0,4.0,7.0,High,07,1996,Winter
 138,57d7d9d6-587b-49a7-866f-dd1c0592beb3,51,Other,High,"17610 William Hill Suite 481
@@ -252,7 +266,7 @@ West Matthewtown, KY 15622",675aa31b-18bd-4814-943b-4d41b71fadd4,2020-01-31,5438
 141,9ebbf79c-dd6d-4e60-84b1-334ce794ee61,71,Male,Medium,"91994 Perry Locks
 West Matthewtown, KY 15622",a79873f1-0169-4c32-8496-d9c0805c8ee2,2022-07-08,c6117d43-64a3-4f54-9b73-28b6afd9da21,Electronics,Brand_C,294.0,23.0,10.0,1.0,Low,07,1970,Winter
 143,3d86aa17-585a-4aba-b024-e2ed673f8ead,28,Female,Low,"72930 Dean Run
-South Kevintown, NH 55332",3f141b00-7530-4638-bcf1-92db46501a35,2022-11-17,28d4410a-3a3d-4fed-b09b-6507d8cc3edf,Clothing,Brand_C,242.0,65.0,10.0,7.0,Medium,11,1987,Summer
+South Kevintown, NH 55332",3f141b00-7530-4638-bcf1-92db46501a35,2022-11-17,28d4410a-3a3d-4fed-b09b-6507d8cc3edf,Clothing,Brand_C,248.0,65.0,10.0,7.0,Medium,11,1987,Summer
 144,eb25a4d0-44fe-4bd1-980f-c6f96e0bc7d7,52,Male,Low,"PSC 4612, Box 1797
 APO AA 72856",f7c19d5c-239f-4017-88d7-265990180c20,2021-09-11,81e5359c-03fd-454a-a8d0-0a942197d822,Clothing,Brand_C,42.0,49.0,5.0,1.0,Low,03,1983,Winter
 145,53fb5a0b-d35b-470d-827d-20d064fd939a,77,Other,High,"472 Mills Mall
@@ -304,7 +318,7 @@ Chelseaside, WI 63615",1ed465a3-55b6-4f69-85b8-8e00bbf16c89,2022-04-16,eaf90739-
 170,9b181925-0afe-42af-810f-0db796ecd86c,46,Female,Medium,"394 Lynn Knoll
 Gregoryview, VI 26497",140cd528-c6d1-4866-a41b-eb597a877635,2023-08-18,8d7f563c-e0a5-4fa9-a9a9-7e58b6dfb86a,Electronics,Brand_B,188.0,39.0,6.0,5.0,Low,09,1988,Fall
 171,8d8abac4-bcaa-4744-9080-e19b80b3f04e,30,Other,Medium,"2803 Walker Court Apt. 793
-West Cynthia, UT 67637",292c5c6e-44bd-436b-b4aa-852645abe788,2022-07-06,4a079c92-14ba-4970-bf3c-d0fd48818593,Electronics,Brand_A,242.0,28.0,5.0,8.0,Low,05,1995,Spring
+West Cynthia, UT 67637",292c5c6e-44bd-436b-b4aa-852645abe788,2022-07-06,4a079c92-14ba-4970-bf3c-d0fd48818593,Electronics,Brand_A,248.0,28.0,5.0,8.0,Low,05,1995,Spring
 172,f1943819-5678-4465-bc93-671f5ec21e9a,78,Other,Low,"2803 Walker Court Apt. 793
 West Cynthia, UT 67637",c6334701-efa1-4001-8166-84c4d5bddd8c,2022-12-02,a7645407-130d-4576-85b3-215196ef1dea,Electronics,Brand_A,461.0,59.0,3.0,3.0,Low,11,1984,Fall
 173,1028a9e9-b92d-4b05-9ba6-2a1c6d643fe9,53,Female,High,"234 Schaefer Lights
@@ -326,7 +340,7 @@ North Carol, WV 94979",e9a6ccf4-2172-4fbf-b6a5-0b8140c0df89,2023-02-08,d11b971a-
 181,60fd5e7e-2b75-47ab-97c4-49f4d20c37bf,52,Other,Medium,"47134 Jennifer Brook Apt. 700
 Thomasville, PA 38149",248af2d4-6c67-4b6a-82e9-b5550d4a90d9,2022-05-01,1f00b366-9a6c-47cc-b3b9-7c97edbedaec,Electronics,Brand_B,436.0,41.0,9.0,4.0,Medium,10,1972,Summer
 182,6e01bf88-d9a5-4ee0-b4b5-28f321f50e98,40,Male,Low,"0062 Brown Squares
-Crystalport, MH 13585",55549a9f-5c39-49ae-bfa0-124dcbb810f4,2020-02-20,a2631df6-1cbb-492a-8375-546cbc21b6e6,Clothing,Brand_C,242.0,43.0,9.0,5.0,Medium,04,2008,Winter
+Crystalport, MH 13585",55549a9f-5c39-49ae-bfa0-124dcbb810f4,2020-02-20,a2631df6-1cbb-492a-8375-546cbc21b6e6,Clothing,Brand_C,248.0,43.0,9.0,5.0,Medium,04,2008,Winter
 183,abdfb803-c41f-4ac4-844f-79c1d1cf148f,58,Male,Medium,"25670 Jennifer Lodge Apt. 762
 South Johnton, RI 64614",a9df1b70-3e6e-4b33-904e-8cd7f9fea520,2020-12-29,69d177e0-ac91-44dc-b787-18b02aa45580,Electronics,Brand_C,190.0,12.0,3.0,6.0,Medium,04,1983,Winter
 184,d9819d79-2a1d-4636-9280-b418ace38108,75,Other,High,"074 Gutierrez Points
@@ -353,8 +367,10 @@ Ortizfort, KS 54515",0b447f33-e5d3-4e77-b233-0a8cff8a6eb7,2023-07-13,93797df9-be
 West Kimberlyberg, VT 12155",82437ddc-8cc4-4a98-9ddf-e454548041b9,2021-05-30,3865552e-49a4-484d-a18e-c3c199c3b870,Electronics,Brand_A,343.0,72.0,2.0,3.0,Low,05,2016,Fall
 196,2a20a72f-f615-4adb-8590-19e0f66559fc,69,Female,Low,"PSC 0905, Box 4957
 APO AA 72819",4f49759c-8004-4ea1-8e6b-e1ad29d6eb72,2020-10-16,0913e5f9-2d89-4d4c-a013-c90b51949331,Clothing,Brand_C,144.0,64.0,4.0,6.0,Low,05,2008,Winter
+197,98d7953a-1750-432e-baca-05b7ac8b3a5f,22,Female,High,"4415 Melanie Isle
+Beardmouth, PR 06700",46a38d82-cd5f-4f59-b743-6fff29deccef,2020-04-12,0913e5f9-2d89-4d4c-a013-c90b51949331,Clothing,Brand_C,23.0,82.0,7.0,2.0,High,12,1986,Spring
 198,7b7a1bbc-3e89-428a-81d5-d3053dade817,79,Male,Medium,"0300 Silva Passage Apt. 552
-Lake Melissafort, WY 40654",4f49759c-8004-4ea1-8e6b-e1ad29d6eb72,2023-03-21,fbff58a8-81f0-451e-898d-36e0054c4cef,Clothing,Brand_C,211.0,95.0,7.0,5.0,Low,03,2008,Summer
+Lake Melissafort, WY 40654",46a38d82-cd5f-4f59-b743-6fff29deccef,2023-03-21,fbff58a8-81f0-451e-898d-36e0054c4cef,Clothing,Brand_C,211.0,95.0,7.0,5.0,Low,03,2008,Summer
 199,3aeb5791-33e7-4de2-ab85-31684090fa0d,21,Male,Low,"67372 Michelle Shoal
 Jamesville, MI 93319",69716393-1aa1-4bae-9b89-c5817db35d09,2023-01-01,abef1ed3-599b-4bb2-bb22-8895d67e478e,Electronics,Brand_B,311.0,18.0,10.0,2.0,High,02,1995,Spring
 200,df6f0da9-e4c3-4267-a784-fc8b35950897,42,Other,High,"75281 Tony Plaza
@@ -385,6 +401,8 @@ Mayobury, PR 78459",ca6d885f-4343-4bd8-8a2c-db1c811fe0be,2022-12-16,731ef4fc-844
 DPO AE 28597",53483f39-72bd-4062-b777-620d40e288aa,2020-03-06,622e9aa9-4fc2-4f0c-8165-81d23d7126e6,Books,Brand_B,346.0,92.0,7.0,8.0,Low,08,1991,Summer
 215,f98360f7-6c81-4e88-a2df-562adc2e3cd1,69,Male,Medium,"142 Knapp Ramp Apt. 983
 West Kaylamouth, AR 10554",4f597927-207c-48d9-b9c0-6a138b872037,2022-09-25,4a46d0d4-be46-4388-aa5e-c1b529516a47,Electronics,Brand_B,477.0,67.0,5.0,3.0,Low,04,1991,Fall
+216,e09a26dd-91ff-4b52-8aa8-f09daf1b1f34,42,Female,High,"32608 Daniel Underpass Apt. 661
+Woodsstad, ID 79100",df501e05-ef94-4937-8b13-a2058f89f880,2022-11-02,4a46d0d4-be46-4388-aa5e-c1b529516a47,Electronics,Brand_B,253.0,71.0,1.0,4.0,High,04,2021,Spring
 217,b6678d83-309d-465e-8297-1461ea209594,66,Female,Medium,"62022 Mitchell Spring
 Michaelborough, AR 28576",18523359-1f51-44ab-b1cf-366998152a75,2022-07-01,af8ae014-6c03-4c88-bfae-3ed5151c1928,Clothing,Brand_B,94.0,44.0,2.0,8.0,Low,11,1998,Winter
 218,cdf5cd82-ab99-410d-9612-1e8627a23012,46,Other,Low,"87966 Bradley Mountains Apt. 426
@@ -423,6 +441,8 @@ Port Karen, NJ 61144",13d0be12-5fae-4998-bf3d-ee748cd2d3d3,2023-03-31,0bd17822-4
 North Caroltown, PA 98184",c94f1aa1-3b68-45bd-ada8-265f14dd9819,2022-06-24,aeba8a7b-dae8-43ef-a467-09a2440510c5,Books,Brand_B,98.0,20.0,8.0,5.0,Low,06,2008,Summer
 236,dc0bc696-9b37-4704-abfa-b3c77af8eba8,47,Male,Low,"968 Griffin Parkways
 North Caroltown, PA 98184",fbdc3b99-ea4e-4fca-a755-12be61747140,2022-08-22,8d621bc8-253c-49bd-8130-e539a625af2f,Clothing,Brand_B,70.0,46.0,10.0,9.0,High,02,1985,Summer
+237,6f201fef-b21c-400f-b91e-7062c8183017,18,Male,Low,"65300 Lauren Course
+Nortonmouth, IN 88448",d56c01b7-deba-4d91-a8ba-819b9fb6b43b,2022-11-09,8d621bc8-253c-49bd-8130-e539a625af2f,Books,Brand_B,426.0,55.0,6.0,10.0,Low,01,2011,Spring
 238,d917f10d-c5f7-4071-abc5-8811cda33a65,72,Male,High,"49443 Sanchez Club
 Geraldport, NJ 72175",8e5e4a76-a578-4a69-9d48-a261ec32b4b2,2022-06-03,d5509146-f6d1-4295-8769-cbd58670d51f,Books,Brand_B,375.0,68.0,9.0,10.0,Low,04,2015,Spring
 239,4d70ef0b-017c-46c4-89cf-427f7b06eb7e,58,Female,Low,"7787 Cassidy Mission
@@ -444,7 +464,7 @@ Porterton, MS 38723",0fc465df-ce84-4cb7-9d66-b81ccd8dc489,2020-12-20,054cb4ff-b5
 247,694b599c-35ab-4b49-badb-6e572964ef3c,25,Female,High,"9510 Evans Forks
 Michaelport, CO 11393",55c48f91-7218-4344-a30c-6c90c644861f,2020-11-24,4ca5c2cd-b541-493f-9e07-261225000b74,Clothing,Brand_C,167.0,33.0,9.0,2.0,Low,09,1977,Fall
 248,ad9a172b-1e7b-4094-b345-f529fe7390ae,63,Other,High,"71787 Garcia Lodge
-Baileystad, NC 30037",c9dd56fa-6cbc-444b-8efe-1248a835f7d2,2023-05-11,b732feb2-d455-4165-9348-424264376f28,Electronics,Brand_A,242.0,83.0,7.0,7.0,High,11,1986,Summer
+Baileystad, NC 30037",c9dd56fa-6cbc-444b-8efe-1248a835f7d2,2023-05-11,b732feb2-d455-4165-9348-424264376f28,Electronics,Brand_A,248.0,83.0,7.0,7.0,High,11,1986,Summer
 250,a237c9f1-02ec-4045-a215-5a0814892f56,74,Other,Low,"312 Bullock Islands Apt. 055
 Port Kennethton, WI 27959",2e768bb2-2f21-41d1-9e23-a56c45bfc6d7,2022-02-01,e953aa08-66ab-491b-8138-5b01459bf7ff,Electronics,Brand_A,89.0,20.0,1.0,5.0,Medium,11,2012,Spring
 251,0280b25c-8378-476e-a9f6-875424fe390a,56,Other,Medium,"989 Roman Harbor
@@ -455,14 +475,18 @@ Janeburgh, NE 44143",7888b0df-66f0-44ac-b7bc-5bba3f7e8a97,2022-06-22,34b30001-83
 FPO AP 87357",ae98a82e-1545-4ed3-92b0-8f2a3157d423,2022-01-12,bc55cbdd-9bb8-419c-8d28-11f5cde63ed3,Clothing,Brand_C,238.0,43.0,8.0,5.0,Low,03,2014,Spring
 254,7ce4a2c5-fd40-4cbf-850e-0d2f0201b738,30,Female,Medium,"30451 Knight Parkway
 Kristintown, SC 65098",0c38b837-a982-4ab7-84bb-f91db93b32d9,2023-07-03,21ffb055-1759-4f4f-bb61-5103a2cb945f,Clothing,Brand_A,215.0,84.0,6.0,5.0,High,12,1989,Winter
+255,566e96b8-23fc-4ffe-a0ec-9903fad5df5d,70,Other,Medium,"PSC 2122, Box 5552
+APO AA 07205",50528265-dce2-49c5-a933-ba3e91f818c8,2023-08-19,21ffb055-1759-4f4f-bb61-5103a2cb945f,Books,Brand_A,88.0,39.0,10.0,1.0,Medium,04,2003,Spring
 256,dfded8b7-98d8-44e1-9c2f-b5b87cade0ab,39,Other,Low,"95552 Jones Expressway Apt. 156
 South Pamelahaven, ID 50533",98bec5d4-c14b-484a-980d-1c6530e54c1e,2022-03-29,5318678a-d741-42d7-a9b0-4a3646fae447,Books,Brand_B,39.0,59.0,3.0,4.0,High,09,2020,Fall
 257,9ac4dc7f-4a96-41d5-ac35-c42bcd85dbeb,31,Other,Low,"95552 Jones Expressway Apt. 156
 South Pamelahaven, ID 50533",3f869b92-ba41-4adb-ab93-62cadbb742ac,2020-05-18,f7b7c984-d32c-4c09-814a-6f4297acfb80,Electronics,Brand_A,33.0,28.0,5.0,5.0,Medium,05,1971,Summer
 258,f1c2862e-0dc4-4b6d-8f43-195e576e57ab,50,Female,High,"56212 Wesley Underpass
 West Jennifertown, MD 06384",b453b458-4daa-4893-a100-5179de20db7d,2021-11-29,b7df2ab5-b273-428f-83b8-feffe46fe375,Electronics,Brand_A,400.0,48.0,5.0,5.0,Low,06,1982,Winter
+259,d1682eb9-143c-4562-9ecf-9a2759270c6d,70,Other,Medium,"1592 Lori Radial Apt. 315
+Ryanfurt, SD 01282",a855e1fd-9655-4d08-af70-2d8fd0229e34,2022-09-02,b7df2ab5-b273-428f-83b8-feffe46fe375,Electronics,Brand_C,40.0,50.0,8.0,5.0,Medium,05,1978,Summer
 260,b5c2339b-6385-483a-97c2-af22471df588,73,Other,High,"USCGC Lee
-FPO AP 42714",f9ab2bbc-7fc5-4642-9207-6830c14de32a,2022-11-13,0cf1a752-f766-4cb8-9a2f-98e5f066d935,Clothing,Brand_A,261.0,22.0,5.0,6.0,Low,06,1975,Spring
+FPO AP 42714",f9ab2bbc-7fc5-4642-9207-6830c14de32a,2022-11-13,0cf1a752-f766-4cb8-9a2f-98e5f066d935,Clothing,Brand_C,261.0,22.0,5.0,6.0,Low,05,1975,Spring
 261,b30bff39-86c6-4122-a301-e9bab15c0b00,36,Other,High,"76621 Hancock Prairie Apt. 036
 Cliffordport, NY 36880",ba623f9b-1bef-4eee-8b9c-34e8299819c4,2021-03-27,42e14245-2405-4aed-93a8-8240dad16d36,Books,Brand_B,23.0,95.0,5.0,9.0,Low,01,1996,Spring
 262,b30bff39-86c6-4122-a301-e9bab15c0b00,75,Other,High,"825 Lynch Island Apt. 803
@@ -475,10 +499,12 @@ Laurashire, VA 62087",11d197bf-a5d3-4ff7-9751-c9d5563220ca,2022-07-19,7b6a9111-5
 FPO AE 45477",1a8352fb-8cee-4fd0-9a27-c60efd0aff98,2021-07-30,5da6ac17-cd77-4b1c-a0ab-80840a40b873,Books,Brand_C,98.0,50.0,10.0,5.0,Low,09,2011,Summer
 266,8fb145a3-1d8b-4e65-9b62-a19131f21da8,61,Male,Low,"63541 Kimberly Tunnel Apt. 073
 East Ericaside, NH 48575",1a8352fb-8cee-4fd0-9a27-c60efd0aff98,2020-11-29,975ed5aa-9e1d-4433-8069-433154ec9eb3,Clothing,Brand_B,62.0,29.0,5.0,1.0,High,06,2014,Spring
+267,832dd808-2cc2-42f6-851e-38ed9c9a85fe,50,Male,High,"01757 Jason Groves Apt. 373
+Lake Michaelport, GA 53565",43428639-e335-4d58-844f-228e427297d4,2020-03-09,975ed5aa-9e1d-4433-8069-433154ec9eb3,Books,Brand_B,276.0,50.0,10.0,5.0,Low,07,1971,Summer
 268,24f30980-5b6f-4493-9e1b-c9e76c7ba288,57,Other,Medium,"2200 Gonzales Crescent
-Harrisbury, MO 76483",01157dd9-0e63-4961-8003-070375630bd9,2020-11-29,1c7a21a6-132c-42d0-9787-49b33593cadd,Clothing,Brand_A,242.0,41.0,10.0,3.0,High,09,1978,Summer
+Harrisbury, MO 76483",01157dd9-0e63-4961-8003-070375630bd9,2020-03-09,1c7a21a6-132c-42d0-9787-49b33593cadd,Clothing,Brand_A,248.0,41.0,10.0,3.0,High,09,1978,Summer
 269,cd791b61-18ce-485b-ba92-7594d5827a69,57,Other,Medium,"USNV Cochran
-FPO AP 32557",5cd2c969-2de1-47e7-8ab1-3ef30f0d479a,2023-02-14,d8059852-461f-4a6f-b775-d363e03b0ea1,Electronics,Brand_C,242.0,87.0,4.0,1.0,High,06,1999,Fall
+FPO AP 32557",5cd2c969-2de1-47e7-8ab1-3ef30f0d479a,2023-02-14,d8059852-461f-4a6f-b775-d363e03b0ea1,Electronics,Brand_C,248.0,87.0,4.0,1.0,High,06,1999,Fall
 270,5eace9bf-e5a9-4f27-b6ea-383119a69212,65,Male,Low,"142 Cheryl Forks Apt. 648
 Martinland, NV 67561",e28f589b-dd4a-4de9-b8b5-944300d9034c,2020-03-27,eeb619e3-c872-4139-93c5-5831c24897b7,Clothing,Brand_A,439.0,55.0,6.0,6.0,Medium,07,1981,Spring
 271,1b55d5ab-8ccf-4522-aeea-a0d9c24e6617,48,Male,Medium,"48595 Wallace Canyon
@@ -494,7 +520,7 @@ South Michaeltown, FM 62608",456b6945-1adf-4e3d-9e4c-0a2b4010d5d5,2023-05-17,df5
 276,d0187fd2-5e53-420d-a507-b4cdb667b189,56,Male,Low,"84262 Ryan Glen
 Jenniferborough, GA 76951",76ba2829-896a-4317-ba50-35f56d76385c,2023-03-17,7e359862-8aae-4fa5-a093-e72c9919e4cf,Electronics,Brand_B,348.0,64.0,9.0,2.0,High,12,1983,Fall
 277,fe8ea6da-de13-4d82-85f2-97e15c9b40c8,39,Male,Low,"997 Mcmahon Loaf Suite 088
-Lopezmouth, GA 57745",00d9371e-6707-4507-a138-d0736ea361b7,2023-06-15,f7996db9-e457-425f-a173-bfa8b38efb99,Books,Brand_C,242.0,63.0,6.0,1.0,High,01,1987,Spring
+Lopezmouth, GA 57745",00d9371e-6707-4507-a138-d0736ea361b7,2023-06-15,f7996db9-e457-425f-a173-bfa8b38efb99,Books,Brand_C,248.0,63.0,6.0,1.0,High,01,1987,Spring
 278,2153ca39-e94f-4e2f-ad22-820a32e9e708,76,Other,Medium,"58008 Melissa Haven
 Port Jeremymouth, TN 36351",e2192a82-b8d7-4b9f-997c-d749062578f2,2022-08-15,d7c751a0-19e8-4d81-8df2-3d28b62c0365,Clothing,Brand_C,237.0,52.0,7.0,2.0,Low,09,1970,Fall
 279,4c6030f5-d034-4732-8803-92b1165650ba,76,Male,High,"6723 Valdez Cape Suite 790
@@ -508,9 +534,13 @@ Port Caroline, WA 39253",bb73d214-6568-4a0c-be1a-28c4db5d9e3f,2023-08-22,3d9736d
 283,5718df8f-6f70-4f8b-b324-fe8c669d9232,74,Male,Medium,"698 Grant Parkway Apt. 984
 Port Jamesville, VT 32619",df0c45dc-d756-4ab5-b76e-b6cd84e7a8a3,2022-11-13,d5d7a42d-06a1-4177-a22a-9ce467b3f752,Electronics,Brand_C,47.0,71.0,7.0,8.0,High,11,1987,Fall
 285,62130e3c-a044-4413-aa7e-9fe99bc29830,49,Male,Low,"698 Grant Parkway Apt. 984
-Port Jamesville, VT 32619",249c475c-6b28-443d-8e2f-d7b5a46582c7,2022-06-12,47f4ce59-be3a-4311-b257-d837bb71b89d,Books,Brand_B,242.0,65.0,6.0,6.0,High,03,1994,Fall
+Port Jamesville, VT 32619",249c475c-6b28-443d-8e2f-d7b5a46582c7,2022-06-12,47f4ce59-be3a-4311-b257-d837bb71b89d,Books,Brand_B,248.0,65.0,6.0,6.0,High,03,1994,Fall
 287,dd3f92ad-93c2-48a0-bab3-e61edfeb044d,27,Male,Medium,"1018 Bailey Circle
 West Bradview, RI 03439",22e55312-63a9-4a3c-9e7d-955d5a3b0840,2020-01-15,4bfae49a-d0d4-48bb-a072-a921ed286a09,Electronics,Brand_C,211.0,49.0,7.0,9.0,High,06,1989,Fall
+288,dd3f92ad-93c2-48a0-bab3-e61edfeb044d,80,Other,Low,"367 Abigail Plaza Suite 128
+Delgadomouth, VT 40494",e48be32b-e5b4-402b-ba81-9b60a206f6c4,2021-09-17,4bfae49a-d0d4-48bb-a072-a921ed286a09,Clothing,Brand_B,242.0,66.0,1.0,5.0,High,12,2000,Spring
+289,abcb6640-9f8d-4aae-85a7-3dab97cab0a6,77,Female,Low,"941 Dodson Points Suite 334
+East Pamela, ND 55353",946d5f25-21c1-4245-aef5-a62e7aadd6c9,2023-10-20,4bfae49a-d0d4-48bb-a072-a921ed286a09,Electronics,Brand_B,453.0,29.0,2.0,5.0,Low,11,1998,Spring
 290,38de1316-63cc-4bdd-b9b6-e467d6c64791,38,Male,Low,"526 Walker Locks Apt. 073
 West Michael, IA 85023",15686b10-2449-4a4c-b484-557c59a6ec5c,2021-05-09,1853c61f-a2e3-4c74-89cf-eeaee5749a1f,Electronics,Brand_C,47.0,99.0,5.0,2.0,High,06,1997,Summer
 291,ae4961b1-e439-4e8a-a2b6-9ed921203d09,25,Female,Medium,"3228 Edwards Summit
@@ -552,7 +582,7 @@ Lisashire, AL 03715",f8654d82-20be-43a0-9580-e20cb2ebae04,2023-07-16,e032b559-83
 309,68e502aa-2a25-42f8-a2c1-4390a7ec75cd,68,Female,Medium,"115 Donna Heights Apt. 692
 Watsonton, HI 23854",4dc79970-5027-4993-a195-b3aeebfae241,2021-01-03,d94e8674-4ff9-4941-89b8-d420ddf1027b,Electronics,Brand_B,122.0,75.0,10.0,6.0,Medium,10,2001,Summer
 310,4be2e474-fdd2-4f40-9ae1-912a869aedf5,80,Other,Medium,"3424 Stewart Rest Apt. 061
-Briannaland, GU 43935",b170aec3-d9f9-49d8-81b1-c5f9ac16005c,2020-11-10,313bc47e-ae6a-4dae-afdc-60c2b3ec62fa,Electronics,Brand_B,242.0,7.0,1.0,8.0,Medium,07,1981,Spring
+Briannaland, GU 43935",b170aec3-d9f9-49d8-81b1-c5f9ac16005c,2020-11-10,313bc47e-ae6a-4dae-afdc-60c2b3ec62fa,Electronics,Brand_B,248.0,7.0,1.0,8.0,Medium,07,1981,Spring
 311,81c9a5a9-34e5-4d9a-9313-f9f859ebee5b,51,Male,Medium,"88959 Hart Prairie
 South Xavierborough, CA 22533",5539c167-8e11-4fd9-ab47-29e5da1d2bc9,2022-09-14,9bc843ed-b063-463b-b333-ac985d41d2ec,Electronics,Brand_A,299.0,35.0,1.0,10.0,Low,05,1988,Summer
 312,3d2163a5-1572-4af6-b576-be4518129e4f,72,Female,Low,"3547 White Crescent
@@ -585,6 +615,8 @@ Lake Reginald, IL 85667",fce9ea29-fbb5-42b3-8294-bb175c2bfb77,2022-06-17,2b4e769
 Websterside, MN 92583",9a533356-be23-4449-8978-93e1d1ce118a,2020-02-06,104c242f-fd7a-437c-a5da-1417ddfd5758,Electronics,Brand_B,78.0,59.0,4.0,5.0,Low,02,1991,Fall
 327,dfe52d68-2bb2-41ab-87a8-c759d7fe3e69,21,Female,High,"9247 Paul Mall
 Websterside, MN 92583",77462f9f-5f8f-40c0-b435-1794f0d42e14,2023-01-17,8e763ac1-0d4b-42d5-a267-855a28ba88be,Books,Brand_A,187.0,65.0,5.0,9.0,Low,01,1976,Spring
+328,b28961ef-2b92-46a4-a810-cd61e4650aa7,20,Male,Medium,"16672 Sandra Throughway
+Miafort, AS 38281",6c593524-1577-480b-85dc-865c59978e91,2023-08-18,8e763ac1-0d4b-42d5-a267-855a28ba88be,Clothing,Brand_B,179.0,77.0,5.0,10.0,Low,05,1971,Summer
 329,8051ae47-09c5-4aa7-a18b-ad3b9d604e4c,51,Female,Medium,"562 Terri Views
 South Elizabeth, PR 38285",e3d33280-235e-49b8-bace-ce789c6e6f49,2023-05-29,9a94961a-d1bb-4e55-9385-20218fd4deb6,Clothing,Brand_B,51.0,32.0,2.0,5.0,Medium,02,1995,Summer
 330,8051ae47-09c5-4aa7-a18b-ad3b9d604e4c,51,Other,High,"80713 Joseph Dale Apt. 399
@@ -604,7 +636,7 @@ North Austinmouth, WA 33816",7bbc5e77-4931-45db-96f2-f9478dd5b11a,2021-11-24,b08
 337,3d58fad9-394c-4040-8e29-f668d5955933,59,Female,Medium,"2106 Samantha Summit
 South Stephanie, AK 84289",58f5298b-f4aa-4165-b9d2-15bc141c537a,2020-06-15,dc16e1e5-9fef-4ab8-a4d3-08d860cc8d03,Clothing,Brand_A,465.0,99.0,4.0,3.0,Low,09,2023,Winter
 338,7b6076c7-f01f-41fb-aa73-9288356d3bdd,43,Male,Low,"20206 Louis Knolls Suite 511
-East Ianfurt, CA 62052",26ca4c7c-8a70-459b-b69c-26c4030c6940,2022-06-07,3c6dad9e-d971-4812-b29f-2923b2833d81,Electronics,Brand_C,242.0,27.0,4.0,10.0,Low,07,1990,Spring
+East Ianfurt, CA 62052",26ca4c7c-8a70-459b-b69c-26c4030c6940,2022-06-07,3c6dad9e-d971-4812-b29f-2923b2833d81,Electronics,Brand_C,248.0,27.0,4.0,10.0,Low,07,1990,Spring
 339,ad4279dd-57d1-4758-b6c8-72507851d5cd,47,Female,Low,"764 Theresa Land
 Sarahberg, OK 56883",73aca7a8-9645-401a-bac7-87b38631a6e5,2023-01-13,865fa92a-ccc7-4c05-bf56-b51b84953da5,Books,Brand_B,98.0,39.0,3.0,1.0,Low,07,1990,Summer
 340,ad4279dd-57d1-4758-b6c8-72507851d5cd,67,Male,Medium,"05791 Lawson Crescent Apt. 725
@@ -662,13 +694,15 @@ Smithfort, IN 11119",12eabfba-b7c0-4343-97df-676ec273a7aa,2020-10-11,b6ccd248-16
 368,9d3c49ee-b6ac-46d4-98d3-ab3263c69495,56,Male,High,"273 Jeffrey Spring
 Gregoryburgh, IN 78464",8167a80b-5261-4bfb-a2a5-c9bfbd48384c,2020-01-14,469e7c7d-82fb-4eba-978d-da7a667fafda,Clothing,Brand_A,40.0,67.0,8.0,10.0,Medium,11,1988,Winter
 370,36ec127c-b740-420f-b011-95ed6e8cf737,35,Female,Low,"30742 May Port
-Rebeccaborough, ID 78672",d9f4587d-4f4a-4ab7-9944-23b9b31a56f7,2023-07-17,9b18078a-664e-4cfa-818d-b5175de092fe,Books,Brand_A,242.0,8.0,8.0,6.0,Medium,12,2017,Winter
+Rebeccaborough, ID 78672",d9f4587d-4f4a-4ab7-9944-23b9b31a56f7,2023-07-17,9b18078a-664e-4cfa-818d-b5175de092fe,Books,Brand_A,248.0,8.0,8.0,6.0,Medium,12,2017,Winter
 371,099a5866-3c57-46cb-85bb-18fd03b273bc,35,Other,High,"21665 Michael Squares Suite 371
 Currytown, RI 31752",aedfe367-2d0f-40c9-b8f6-39cdbce0b70d,2021-07-27,6f69b7d9-bb85-4a3a-8783-9378ddc34366,Books,Brand_A,491.0,40.0,2.0,9.0,Medium,04,2004,Summer
 373,a9752c76-4143-4dc1-9021-fde75ac65063,78,Female,Medium,"50325 Chloe Orchard Apt. 985
 Davisland, ME 76053",fcba8dae-59d6-460d-b7f5-09a4f2a6495c,2022-06-01,1256f2fd-b027-42ff-b898-ff1debe81b68,Books,Brand_B,19.0,80.0,8.0,8.0,High,12,1983,Summer
 374,b81cd116-138b-49d0-98fe-7cc0b06a7e31,54,Other,Low,"PSC 0838, Box 4770
 APO AP 45420",40df9a9a-b90f-4fbd-86d9-e856d6a7197e,2022-07-22,848d3a0a-af3e-4ee5-bd50-56702a4582df,Electronics,Brand_C,295.0,39.0,1.0,1.0,Medium,12,2017,Spring
+375,b81cd116-138b-49d0-98fe-7cc0b06a7e31,27,Female,Low,"Unit 1186 Box 9955
+DPO AP 16909",4a4773cd-05a9-459c-995f-eacba3f4070e,2020-11-12,848d3a0a-af3e-4ee5-bd50-56702a4582df,Electronics,Brand_C,427.0,5.0,3.0,10.0,High,08,1986,Summer
 376,8c2699dc-efdb-43f9-934b-3aab6f0adac1,70,Female,High,"8513 Lambert Junction
 Davidstad, AL 50770",db49bca7-365d-4741-9db8-a84c40b6cef0,2022-01-21,937366fd-fb5b-4c98-a1b4-9f89a3ee6450,Clothing,Brand_A,189.0,37.0,3.0,9.0,High,04,2010,Winter
 377,16a3c63a-fe60-4852-9bcb-afff424399f5,78,Other,Low,"1989 Kimberly Lane
@@ -703,20 +737,28 @@ Catherineborough, NJ 14611",e82f7a98-465f-4ab2-b5dd-4d97c6809f43,2023-01-13,3e51
 Mooreborough, NJ 58998",854c5a1e-b1f3-4a6d-b50d-564b1ab734d8,2023-11-19,dca90623-62cc-4837-92b2-3d2aea302ced,Books,Brand_C,67.0,97.0,6.0,6.0,Medium,09,1987,Spring
 394,66331815-2963-4c73-9d89-fdbe94db29a4,48,Male,Low,"733 Harrington Mountain Apt. 623
 West Paigeville, AL 90433",7408b339-6b60-49de-8053-2000810215d1,2023-11-19,ffe5876b-d64d-40b3-a52a-9e90f19b3404,Electronics,Brand_A,211.0,71.0,9.0,10.0,Low,12,1971,Winter
-396,66331815-2963-4c73-9d89-fdbe94db29a4,74,Female,Medium,"31897 Melton Ramp
-West Bradley, MO 51263",c329ec9f-99f4-4ad5-bf01-c32fccc86a1d,2023-04-10,5ac33a38-c0f2-4484-9193-440dd7c779bd,Electronics,Brand_A,91.0,86.0,6.0,1.0,Low,03,1974,Winter
+395,da4ace4b-a220-4e35-9042-93285a9acafd,22,Female,Low,"1376 Diane Springs Suite 387
+Cohenport, NE 34657",ba06a1f8-a326-4948-afe0-1a3aee0d0509,2021-09-15,ffe5876b-d64d-40b3-a52a-9e90f19b3404,Books,Brand_B,175.0,37.0,8.0,5.0,High,12,2013,Fall
+396,da4ace4b-a220-4e35-9042-93285a9acafd,74,Female,Medium,"31897 Melton Ramp
+West Bradley, MO 51263",c329ec9f-99f4-4ad5-bf01-c32fccc86a1d,2023-04-10,5ac33a38-c0f2-4484-9193-440dd7c779bd,Electronics,Brand_B,91.0,86.0,6.0,1.0,Low,03,1974,Winter
 397,ce987e29-13a5-46dd-a101-2737501e9f6a,74,Other,Low,"31897 Melton Ramp
-West Bradley, MO 51263",60e917bf-4482-423e-85ae-a7b9c113a30b,2022-07-19,c2d88de7-58d3-4eac-9aad-94602379219f,Electronics,Brand_A,390.0,46.0,7.0,7.0,Low,06,1981,Fall
+West Bradley, MO 51263",60e917bf-4482-423e-85ae-a7b9c113a30b,2022-07-19,c2d88de7-58d3-4eac-9aad-94602379219f,Electronics,Brand_B,390.0,46.0,7.0,7.0,Low,06,1981,Fall
 398,51add021-fe0b-4319-8732-e136ac0c3446,72,Other,High,"9699 Baker Views Apt. 225
 Johnbury, ID 65068",0638c44b-6690-4a7e-afa7-f33c8d1c5567,2021-08-08,862309a8-9873-42ab-9b71-0a81fd055723,Electronics,Brand_C,175.0,61.0,10.0,3.0,Medium,10,2017,Fall
+399,e7268473-a258-47d9-982b-f575631d2754,49,Other,Medium,"363 Joseph Lodge
+South Derrickton, IA 60962",0988b8d6-5f38-4171-9b9e-a55ff09aff04,2022-01-06,862309a8-9873-42ab-9b71-0a81fd055723,Electronics,Brand_B,480.0,13.0,6.0,5.0,High,09,2017,Summer
+401,157964bf-f636-4883-a091-45320ad50327,60,Male,Low,"48467 Johnson Walk Suite 656
+South Brittanyborough, PA 53225",a0709d14-94d5-492a-8b69-45d02fc917db,2022-08-15,862309a8-9873-42ab-9b71-0a81fd055723,Books,Brand_C,340.0,10.0,6.0,5.0,Low,09,2021,Summer
 402,7fbbb14d-3163-4627-9522-b3509dda81dc,64,Other,Medium,"684 Justin Flat Suite 924
-West Sean, PW 31301",dff2b3ee-30e3-419b-8da7-f3d3faf70170,2021-03-24,e12f6a46-193a-453e-af36-5fe297551ac5,Electronics,Brand_C,132.0,24.0,5.0,5.0,Medium,06,2016,Winter
+West Sean, PW 31301",dff2b3ee-30e3-419b-8da7-f3d3faf70170,2021-03-24,e12f6a46-193a-453e-af36-5fe297551ac5,Electronics,Brand_C,132.0,24.0,5.0,5.0,Low,06,2016,Winter
 403,b88e6ad0-e852-46ed-92f5-8898c3e6cbde,34,Female,High,"68176 Steven Point Suite 876
 South Marcus, KY 50938",75ee70b2-6fe6-427f-8b89-e6848d11d2d2,2023-01-05,0dbf6de7-c5d6-4b54-acee-9f04ca32270e,Electronics,Brand_B,114.0,15.0,8.0,10.0,Medium,10,2015,Spring
 404,029c66c2-530c-473d-9bb9-311d0c3cca1f,20,Female,High,"24775 Murphy Ferry Apt. 155
 North Richard, GA 06979",ce644048-0413-4480-bac2-39662c324f60,2020-11-30,f9a673fe-f7f2-42cd-9c58-2887dec1c66e,Electronics,Brand_A,422.0,57.0,5.0,4.0,High,04,2004,Spring
-406,e0fe673f-e7e4-49e7-ad2d-a72d480f80b8,52,Other,High,"24775 Murphy Ferry Apt. 155
-North Richard, GA 06979",ae862ed1-4b8e-43e1-8593-e8aed515a519,2023-05-04,882e9d8f-115d-468b-87a2-a62404c2b1f5,Books,Brand_B,39.0,11.0,9.0,8.0,Medium,12,1990,Winter
+405,5a21e787-998e-4b68-8173-75f2d1ce61bd,60,Other,Low,"Unit 5611 Box 3248
+DPO AE 06231",d7416322-1b9f-4ed3-954e-82f6f0bb896e,2023-03-01,f9a673fe-f7f2-42cd-9c58-2887dec1c66e,Clothing,Brand_B,293.0,36.0,5.0,2.0,High,06,2018,Summer
+406,e0fe673f-e7e4-49e7-ad2d-a72d480f80b8,52,Other,High,"Unit 5611 Box 3248
+DPO AE 06231",ae862ed1-4b8e-43e1-8593-e8aed515a519,2023-05-04,882e9d8f-115d-468b-87a2-a62404c2b1f5,Books,Brand_B,39.0,11.0,9.0,8.0,Medium,12,1990,Winter
 407,2cc70d69-f516-449a-8f8c-8f86a567cd5e,54,Male,High,"1556 Walton Ville Apt. 741
 South Mitchellfort, MP 13380",6b5cc566-ea2b-4cbd-bfa5-9b0e4e46a360,2021-04-23,708caa64-2921-4cc8-a653-b46d991239c9,Books,Brand_A,10.0,67.0,8.0,7.0,High,04,1995,Summer
 408,6d8c51f4-f39e-405a-aa2e-6270619dd54e,76,Female,Low,"67020 Steven Hills Apt. 781
@@ -742,7 +784,7 @@ West Ericshire, ME 49043",40e9085d-966f-47c9-8015-41d530ce2c10,2021-07-30,d97dc8
 418,58979130-cd47-4e0a-89b6-79eb98bb0d85,75,Other,Low,"68529 Johnny Lodge
 West Shannon, CA 48603",c313cbef-2841-41ad-9036-764407841b07,2023-09-06,03781892-351e-40c2-ae39-824b01ffafe6,Books,Brand_A,91.0,56.0,5.0,6.0,Low,07,2018,Fall
 420,7296a505-9ece-4c48-b08f-e3227a7f23df,70,Other,Medium,"77452 Margaret Ridges
-East Leslieside, GA 83100",c4f2e3ec-b73e-488e-886b-e5d6f1624361,2020-02-14,7fcbf369-41f4-4966-a00f-f891c15a7150,Electronics,Brand_C,242.0,98.0,7.0,1.0,High,05,2001,Spring
+East Leslieside, GA 83100",c4f2e3ec-b73e-488e-886b-e5d6f1624361,2020-02-14,7fcbf369-41f4-4966-a00f-f891c15a7150,Electronics,Brand_C,248.0,98.0,7.0,1.0,High,05,2001,Spring
 421,becae6ff-59bf-4e5a-95e6-c40ffe43b2eb,53,Female,Low,"741 Janice Route Apt. 422
 Millerstad, KY 93511",770a3df1-58d1-41ea-88e3-77b43c6b515e,2020-07-28,bb704b9c-dda6-4299-b6a8-6b7f8bb2d922,Clothing,Brand_A,81.0,29.0,2.0,6.0,Low,07,2019,Fall
 422,a9f10a16-5859-4f7a-8236-2a2e1601c94e,73,Female,Medium,"07612 Phillips Cliff Suite 576
@@ -758,7 +800,7 @@ Lake Brianland, PR 41630",7a5059b7-ed89-4290-800f-c67899472e63,2021-04-28,80fe7f
 427,a42353db-aba4-4458-b2a3-cc3f4e095a53,30,Other,High,"21701 Walter Mountain
 North Greghaven, GU 96093",8649df2b-7810-4ae5-8dd4-b932ab3b3abf,2021-03-18,6c7dd682-e815-438a-ac4f-6e197f6f48f2,Electronics,Brand_A,211.0,87.0,5.0,5.0,Medium,05,1997,Spring
 428,4fed3e20-ec52-440a-8faa-808b4098568f,42,Male,Medium,"04210 Anderson Union
-Michaelstad, LA 27781",4dabe1f7-cc67-4292-8a8c-cbf6ddde3b43,2020-12-16,28eb8245-024c-46fe-ae89-053122135061,Electronics,Brand_B,242.0,34.0,3.0,5.0,Medium,07,1999,Summer
+Michaelstad, LA 27781",4dabe1f7-cc67-4292-8a8c-cbf6ddde3b43,2020-12-16,28eb8245-024c-46fe-ae89-053122135061,Electronics,Brand_B,248.0,34.0,3.0,5.0,Medium,07,1999,Summer
 429,eed702d9-f138-45df-8834-ca49248abd04,60,Other,Medium,"755 Lee Knolls Suite 339
 Torresview, IL 61639",81545cc3-2a72-486b-974f-62d033038836,2021-03-01,54407093-1b99-44f4-89de-1e153940ae77,Electronics,Brand_C,419.0,37.0,10.0,10.0,High,02,2003,Summer
 430,78e50a04-5369-4417-9883-fa2ce60a0049,70,Female,Medium,"962 Daniels Burg Suite 045
@@ -790,7 +832,7 @@ Janeland, MO 83203",c5ab7915-e5a7-4f83-a07a-c33111c8ff0c,2023-03-03,bd62c70e-db2
 444,80c71be9-acc2-40e2-a7d8-c262649cd0b4,34,Male,High,"35036 Jones Locks
 Lake Alexandria, ND 89361",f12a5421-ee40-43c1-8b9c-1c52531b9bd9,2023-02-23,bdefcf8e-056e-4e1c-a802-160a49ddc049,Books,Brand_A,347.0,13.0,5.0,6.0,Low,03,1978,Fall
 445,c5cfe097-3265-496c-a1a1-96f0793d23f3,34,Female,Medium,"221 Christopher Harbors Suite 376
-Saundersland, AR 18607",be21f09a-3830-4e84-b398-ac7f92e65eaf,2023-02-23,0abb0338-f7c6-4437-8ad2-52b508158933,Electronics,Brand_B,242.0,7.0,5.0,10.0,Medium,11,2018,Winter
+Saundersland, AR 18607",be21f09a-3830-4e84-b398-ac7f92e65eaf,2023-02-23,0abb0338-f7c6-4437-8ad2-52b508158933,Electronics,Brand_B,248.0,7.0,5.0,10.0,Medium,11,2018,Winter
 446,60d2c3db-4c91-4e54-908a-9e9d1c01cda4,68,Female,Low,"5890 April Valleys Suite 150
 New Jamiefurt, PW 66978",02d8c6c9-36eb-4377-ae8e-ad2a5e91a049,2023-02-23,328e72a6-4a42-48ce-b3d1-5536ee1441c8,Electronics,Brand_B,484.0,11.0,8.0,2.0,Low,12,1995,Summer
 447,e5873f49-db66-4a7e-9aab-280bcaebbe1a,31,Other,Medium,"30759 Nicholas Harbors
@@ -812,7 +854,7 @@ Parkschester, CO 84547",cfcd9221-58d0-4b5b-a14c-38380f8bc7a5,2020-03-04,0dd317db
 455,29815c9e-428b-4b3c-bc92-1c03787e7b10,51,Female,High,"94635 Allen Station Suite 034
 Timothybury, TX 85138",1a9fe020-e8da-4c3d-855b-bd7bca21a63d,2021-07-20,9d053cf6-ddca-4c6d-935d-acc66216751b,Clothing,Brand_A,137.0,68.0,7.0,5.0,Medium,09,1996,Summer
 456,92f7078b-fa8b-4dcf-ae43-c1b201cd71fe,53,Male,Medium,"258 Edward Ford Apt. 632
-Keithland, WI 58163",415a9bc0-1f18-4234-8899-b2e90e183864,2023-01-24,ef029b78-da53-4cbc-9202-8a999503d2e6,Books,Brand_C,242.0,28.0,2.0,2.0,Low,09,1996,Summer
+Keithland, WI 58163",415a9bc0-1f18-4234-8899-b2e90e183864,2023-01-24,ef029b78-da53-4cbc-9202-8a999503d2e6,Books,Brand_C,248.0,28.0,2.0,2.0,Low,09,1996,Summer
 457,92f7078b-fa8b-4dcf-ae43-c1b201cd71fe,55,Male,Low,"22868 William Walks
 West Marthashire, IA 55784",31c770f6-327e-46ed-90db-e15db8b6e793,2020-03-05,03b23d83-8587-41a8-8f45-c1f840163075,Books,Brand_C,50.0,32.0,2.0,8.0,High,06,2013,Spring
 458,4d0bacb4-4ca5-46b1-ae68-c00f9fd58314,80,Female,Low,"90215 Chen Vista
@@ -869,8 +911,10 @@ Gomezshire, MH 60638",f035156f-770c-422a-910a-23de1bb81254,2020-02-14,7e7f2f26-c
 East Cynthiaburgh, AR 57484",d967d752-2dad-41a6-9321-db2217a4b7d7,2020-02-24,4838cbf8-3a4a-488d-b6b4-b50d400ace8a,Electronics,Brand_B,49.0,74.0,1.0,10.0,Medium,03,1985,Winter
 484,a5371e6e-436c-4dee-9d40-fa882a1d25ab,56,Other,Low,"6733 Micheal Extensions Suite 166
 Clarkmouth, HI 02292",5b3f2a52-6f2b-4eea-9c54-d0df374aacc0,2020-08-06,bd0cac8e-7964-4b0e-86d6-666acfd124d0,Clothing,Brand_A,250.0,15.0,9.0,8.0,Medium,09,2014,Fall
+485,9f3b1fcf-2a24-41f2-8040-dbaccc44d3d5,64,Male,Low,"4186 Jackson Falls Suite 368
+Port Mariaville, OK 72490",06bbbbbd-e5cd-43d4-b109-c4bed5a451d0,2023-06-03,bd0cac8e-7964-4b0e-86d6-666acfd124d0,Books,Brand_A,180.0,35.0,6.0,9.0,High,09,2017,Winter
 486,be2ac153-ab70-42cd-9a47-9e05106dca3c,26,Other,Medium,"86185 Mary Run Apt. 458
-Youngmouth, VA 63535",860fe9af-7d6e-43a5-8251-747539147db7,2020-08-06,2d8acc8a-adcd-4bd2-a866-1ef6d4ad8ee9,Electronics,Brand_C,202.0,16.0,7.0,1.0,High,11,2005,Summer
+Youngmouth, VA 63535",860fe9af-7d6e-43a5-8251-747539147db7,2023-06-03,2d8acc8a-adcd-4bd2-a866-1ef6d4ad8ee9,Electronics,Brand_C,202.0,16.0,7.0,1.0,High,11,2005,Summer
 487,e068ae30-f3cc-48c3-86fd-dcbf82198590,46,Female,High,"3889 Adam Crest Apt. 045
 Port Alexisland, CA 36786",08eda177-a534-4b7f-9e7e-18185710d7be,2022-09-17,0c458bc7-e9a9-4022-aaf7-31736b53965e,Electronics,Brand_B,49.0,28.0,10.0,7.0,Medium,04,1990,Winter
 488,566d84a5-7052-4266-82d8-944fa5070337,61,Male,Low,"3076 Lisa Common Apt. 329
@@ -887,6 +931,8 @@ Sarahhaven, VI 51169",416be262-2728-453c-a499-f68b9a5a6584,2021-11-29,cec548f5-5
 Ortizborough, WA 54627",7d406e51-e8b7-458d-b5f1-91e43019c00e,2020-12-30,eb832263-6592-4559-adb7-6af57d96f6ee,Books,Brand_C,72.0,98.0,4.0,8.0,Low,01,1981,Winter
 494,51d72a0f-2e10-4adf-9e19-4a832143925c,20,Female,Medium,"10134 Laura Way Suite 159
 Samuelville, MP 43551",654e6e43-c91d-417e-a2b1-d1c873288812,2021-03-02,a6e7a9a6-e271-4610-afb1-a44b5cb6eca4,Books,Brand_A,166.0,18.0,4.0,8.0,Medium,10,1985,Fall
+495,83eeafc0-5030-40c2-a929-3a705fc61985,68,Female,Medium,"8572 Jennifer Ridges Suite 375
+Lake Michael, DE 25749",49a57502-fccb-4d21-bb6d-0abbbd12446f,2022-10-29,a6e7a9a6-e271-4610-afb1-a44b5cb6eca4,Clothing,Brand_C,368.0,80.0,10.0,5.0,Medium,11,1978,Fall
 496,18ab68b6-25b6-49a9-8d55-b50448e128af,60,Other,Low,"7290 Michele Mission
 Sheppardport, WV 50801",bd2260a5-149c-4b60-bfaa-d2b36e525c96,2021-06-27,9cf0dcf0-cb1d-41d3-8b22-e7a4a47b70df,Electronics,Brand_C,293.0,38.0,3.0,9.0,Medium,10,2016,Spring
 497,3c6f0c98-36d9-4766-934d-f617eccb887e,68,Female,Medium,"776 Rodriguez Meadows Apt. 241
@@ -896,7 +942,7 @@ Laurenbury, WY 38623",5327e666-5841-42b4-b045-f77e36e88f09,2021-03-15,674da7c9-b
 499,530fa996-d41b-44f3-a015-79a1798e3741,58,Male,Medium,"4093 Preston Land Suite 861
 New Evan, GU 45358",b132f414-d4af-4f4a-8660-607a59e0416b,2023-08-08,19551e37-c849-4294-bfb9-f1ccfcb00a1c,Electronics,Brand_A,203.0,13.0,8.0,4.0,Low,07,1994,Winter
 500,05b59d82-00a1-47b4-a8bd-fbae7d96fdd6,52,Other,High,"PSC 6229, Box 4340
-APO AP 70218",cc85d5ed-ea73-4f67-af01-d7cdb669fb96,2021-06-11,6ac05e69-b59e-4185-95d3-e81a6ac7e281,Electronics,Brand_B,242.0,97.0,6.0,6.0,Medium,09,1972,Winter
+APO AP 70218",cc85d5ed-ea73-4f67-af01-d7cdb669fb96,2021-06-11,6ac05e69-b59e-4185-95d3-e81a6ac7e281,Electronics,Brand_B,248.0,97.0,6.0,6.0,Medium,09,1972,Winter
 501,678ad7ff-67d0-4bb4-a006-472b789aacd3,32,Other,Low,"47787 Garcia Island
 Paulberg, NV 26920",cc85d5ed-ea73-4f67-af01-d7cdb669fb96,2020-07-25,640b98ff-b0ff-4850-8ec1-362408d23442,Clothing,Brand_B,22.0,6.0,2.0,3.0,Low,12,2023,Spring
 502,678ad7ff-67d0-4bb4-a006-472b789aacd3,41,Other,Low,"079 Young Cove Suite 883
@@ -924,7 +970,7 @@ Heatherland, MH 88782",3e6ce01a-e196-4b98-a72d-dadba1f3ca0f,2021-01-29,05a69a9e-
 514,cf407db6-5b98-4e51-8bb0-047ec9e40801,73,Female,Medium,"8848 Martinez Roads
 Ginashire, PW 66413",4a551a12-b526-433f-bdf1-09f8f6468a97,2020-12-11,a567ac7f-ce53-4052-96ed-0ad531a715b0,Books,Brand_A,403.0,36.0,6.0,8.0,Low,06,2020,Spring
 515,2d5c3eb6-c93d-43c8-8152-d5dc3620962b,75,Female,Medium,"62404 Tran Dale Suite 383
-Port Shawn, NC 03578",2fe2cc1d-7c02-4774-bbf3-d6673902a5b8,2023-06-03,5df4ac4c-bb6c-41c0-b822-0ef1fbcd8476,Electronics,Brand_C,242.0,11.0,6.0,2.0,High,06,2023,Winter
+Port Shawn, NC 03578",2fe2cc1d-7c02-4774-bbf3-d6673902a5b8,2023-06-03,5df4ac4c-bb6c-41c0-b822-0ef1fbcd8476,Electronics,Brand_C,248.0,11.0,6.0,2.0,High,06,2023,Winter
 516,e2432cdd-3ea6-4ae7-84e1-4c4dbdaded1f,67,Male,Medium,"6449 Tonya Dale
 West Andrewville, GA 87214",6b58ead0-c691-419a-8983-489cd57d0aeb,2023-10-15,2089123e-787a-4f21-b928-ac9db35ff3ef,Clothing,Brand_B,242.0,67.0,3.0,7.0,Low,06,1985,Winter
 517,8e973b31-8bf4-432d-824b-5bea1f84702d,66,Other,Medium,"1529 Gavin Route
@@ -958,7 +1004,7 @@ Albertview, CT 13948",f4a1ea85-a947-477b-b2dd-80dde494015e,2023-06-29,f9931a18-7
 533,6d64f143-c5a6-4b3e-9e07-1530b2b74aa0,78,Other,Medium,"813 Montes Squares
 New Danielle, VA 64734",9580c58f-8786-4bf8-8201-5ae9ce808309,2021-09-12,b72c181b-8918-4195-af47-ff16e9252679,Books,Brand_C,208.0,50.0,6.0,1.0,High,12,1972,Spring
 534,04a7911c-d04d-48fa-a9ec-02557e44004e,66,Other,High,"808 Jennifer Crest
-North Robin, AZ 24784",e06d30c5-5855-41f9-9873-f97a1469b34d,2023-01-19,31199f1c-e010-47d2-b27f-7aa108073a84,Clothing,Brand_B,242.0,92.0,4.0,4.0,Low,09,2007,Spring
+North Robin, AZ 24784",e06d30c5-5855-41f9-9873-f97a1469b34d,2023-01-19,31199f1c-e010-47d2-b27f-7aa108073a84,Clothing,Brand_B,248.0,92.0,4.0,4.0,Low,09,2007,Spring
 535,04a7911c-d04d-48fa-a9ec-02557e44004e,47,Other,Low,"PSC 1884, Box 6262
 APO AE 20702",96f780c7-9715-4275-8d37-a1c62e39ca40,2022-01-27,0de82f4f-5cfe-4da1-bcea-f46b1caf5958,Clothing,Brand_A,138.0,37.0,1.0,1.0,Low,07,1974,Spring
 536,b6449bfe-b504-4d4f-8c80-cc4c672ff2e1,23,Other,Medium,"7781 Murphy Manor
@@ -968,9 +1014,9 @@ Port Haydenland, NJ 39914",75b437d7-670c-40b5-9450-49ca56cf7a08,2022-01-05,08c7e
 538,b9a9def6-d017-4665-a15f-e4fd7ae1994b,29,Male,Medium,"PSC 5962, Box 7138
 APO AA 11079",6717c0bf-f884-43c9-9c24-9f4a59b4b9be,2020-02-11,e160da01-ba78-47ec-8f42-7ea1eeda8d8a,Electronics,Brand_B,263.0,36.0,5.0,9.0,High,09,1974,Fall
 539,b9a9def6-d017-4665-a15f-e4fd7ae1994b,29,Other,Medium,"32094 Wiggins Island
-Mclaughlinton, OR 01282",e46bb5b5-9ed4-45f4-ba23-a2dd4139ac78,2023-04-23,4e6906b5-bd87-47e0-a1f3-f5c8a9c3a188,Books,Brand_C,242.0,45.0,5.0,7.0,Low,06,1986,Spring
+Mclaughlinton, OR 01282",e46bb5b5-9ed4-45f4-ba23-a2dd4139ac78,2023-04-23,4e6906b5-bd87-47e0-a1f3-f5c8a9c3a188,Books,Brand_C,248.0,45.0,5.0,7.0,Low,06,1986,Spring
 540,43a59c31-c749-40af-b28a-fe39561fed0b,45,Other,High,"793 Perry Extension
-Williamsland, OR 27294",6ca5815a-57c1-4c8c-8e90-e6973b3899c1,2020-02-03,5767001f-8e4c-48dc-8f43-53f3b18a48ad,Clothing,Brand_C,242.0,48.0,4.0,10.0,Medium,09,1985,Fall
+Williamsland, OR 27294",6ca5815a-57c1-4c8c-8e90-e6973b3899c1,2020-02-03,5767001f-8e4c-48dc-8f43-53f3b18a48ad,Clothing,Brand_C,248.0,48.0,4.0,10.0,Medium,09,1985,Fall
 541,297a7bc0-3ca6-4859-97fc-36be4cfb14db,42,Male,Medium,"9291 Bryan Junctions Suite 127
 Roweshire, ID 54976",555469ed-f331-4362-a900-24f14e3bff68,2020-06-10,3b52fbd8-2306-4901-8e6a-2ee4daf5e935,Clothing,Brand_A,251.0,38.0,3.0,5.0,Low,04,1974,Fall
 542,b836da68-7704-44c6-ac24-f40e2221ea0c,77,Male,Medium,"0387 Isaac Row Apt. 936
@@ -986,27 +1032,29 @@ Port Eric, AR 62001",751ca51f-506b-4964-b2f9-9bb8bb5fe934,2023-05-08,7b123d0c-bd
 547,9634abba-228d-482e-89a1-290b425ffe0c,44,Male,High,"670 Smith Pines
 North Jenniferstad, DE 75198",bc62777d-d775-4187-aab4-5a0927717420,2020-09-28,a5cc255a-fa1c-4793-bfd4-5894fc280fb1,Clothing,Brand_B,287.0,17.0,4.0,5.0,High,05,1988,Fall
 548,a51f952b-9174-4b78-93bf-445da1bdc6d9,38,Female,Low,"49772 Beth Loop Apt. 702
-New Shannon, VT 84580",fb0dbd45-ceff-423d-bcd4-e507ecf83a75,2020-10-23,92a75a22-c007-4c3a-8a14-81bb73e5aa4c,Clothing,Brand_B,242.0,83.0,1.0,2.0,Low,04,1976,Spring
+New Shannon, VT 84580",fb0dbd45-ceff-423d-bcd4-e507ecf83a75,2020-10-23,92a75a22-c007-4c3a-8a14-81bb73e5aa4c,Clothing,Brand_B,248.0,83.0,1.0,2.0,Low,04,1976,Spring
 549,1a2ecc71-c9a0-4660-9dfb-f11e0cf0639d,62,Female,High,"115 Shari Park Suite 427
 Williamsport, FL 28527",0c3c918f-a3d4-4c5c-91c3-c5b852cde9f3,2020-04-16,3206acf2-bdee-4543-979d-3e20f0fae01b,Electronics,Brand_C,254.0,83.0,10.0,2.0,Low,01,1997,Fall
 550,92e0e459-ddf9-434e-aed3-d0ea834a34ef,42,Female,Medium,"115 Shari Park Suite 427
 Williamsport, FL 28527",5d543c48-893a-4892-81c1-429a33c2e82b,2022-06-14,d48a5657-e6b0-4caf-933b-4f2a5c69b4a6,Books,Brand_A,461.0,93.0,7.0,10.0,Low,06,1989,Winter
 551,1dfecaee-2a64-4ccf-b01d-1b427503aa90,63,Male,Low,"86643 James Dale
-Kristinborough, MD 21139",87aadadf-95fb-4992-af06-0078f1318549,2023-06-11,781d9fb1-d255-459a-bd21-05bf8c15b518,Books,Brand_B,242.0,48.0,3.0,9.0,Medium,07,2017,Spring
+Kristinborough, MD 21139",87aadadf-95fb-4992-af06-0078f1318549,2023-06-11,781d9fb1-d255-459a-bd21-05bf8c15b518,Books,Brand_B,248.0,48.0,3.0,9.0,Medium,07,2017,Spring
 552,0d5d0536-2240-4ff1-84ef-cf688865ca33,35,Male,Medium,"9379 James Terrace Apt. 015
 Walkerton, GU 14442",dbbd1cc3-b316-40c4-87b4-80e390212a96,2020-12-17,b84a467a-b70a-4ee1-9d10-b1127d240d8e,Clothing,Brand_B,260.0,60.0,1.0,3.0,High,06,2011,Fall
 553,d6d6f81b-6303-4412-bf79-ab003082400a,59,Other,Medium,"6112 Lisa Vista Suite 022
-West Susan, SC 18777",91e1a4f2-ae75-42f2-9938-bc06783e49f6,2023-05-02,67a4fbd1-743d-4962-8745-97c0d2341844,Clothing,Brand_C,242.0,52.0,6.0,6.0,High,12,1993,Winter
+West Susan, SC 18777",91e1a4f2-ae75-42f2-9938-bc06783e49f6,2023-05-02,67a4fbd1-743d-4962-8745-97c0d2341844,Clothing,Brand_C,248.0,52.0,6.0,6.0,High,12,1993,Winter
 554,d0bd7801-8ac1-4396-a78d-34f701875311,25,Male,High,"181 Maria Loaf Suite 945
 Lake Ryan, NE 89169",fa559537-8e29-49b1-aeb7-972caefb9096,2023-07-26,03ae6140-9aeb-4408-b67c-3f8ac9adbecd,Books,Brand_C,204.0,39.0,7.0,4.0,Low,03,2016,Fall
 555,990932cb-a7c3-4eb4-93df-c3b87df71c8a,80,Male,High,"345 Caleb Fork
-Lake Juliabury, MH 92252",4be58349-8afc-404a-a8b0-f017bd813c9a,2023-05-10,e0f9fd5d-f579-423f-b755-a253978c4eeb,Clothing,Brand_B,242.0,94.0,5.0,3.0,Medium,02,1996,Spring
+Lake Juliabury, MH 92252",4be58349-8afc-404a-a8b0-f017bd813c9a,2023-05-10,e0f9fd5d-f579-423f-b755-a253978c4eeb,Clothing,Brand_B,248.0,94.0,5.0,3.0,Medium,02,1996,Spring
 556,db883018-817d-489f-b3a9-2b4b10bd1ac9,51,Male,Low,"586 Sullivan Lake Apt. 970
 Port Robert, AZ 60427",4d00b651-42df-45d9-86f7-0b2cc73e06d9,2023-01-14,2aa568f7-ea92-442a-b646-1ff632ecf767,Books,Brand_A,138.0,53.0,5.0,3.0,High,07,2002,Fall
 557,7bafd7cb-c1ae-417d-8f63-6743f13dfb8c,51,Male,Medium,"Unit 7206 Box 9649
 DPO AA 76074",fb9e400e-d902-4f41-99e1-e505dd7ad51f,2020-10-27,7b76f323-fe9f-4613-84a4-fc5acbad1d34,Books,Brand_A,152.0,87.0,8.0,2.0,High,09,1977,Spring
+559,3c2a4a2f-924f-42b2-ab00-aad7341312f4,18,Other,Medium,"USNS Houston
+FPO AP 36478",2be870ca-1aa3-4ff6-aaa2-39e6b41eef36,2020-08-07,7b76f323-fe9f-4613-84a4-fc5acbad1d34,Clothing,Brand_C,297.0,48.0,4.0,6.0,Low,03,1980,Fall
 560,ac271959-8ef9-43b7-b93e-9b93ceb6b9b2,46,Other,Low,"363 Alicia Bridge Apt. 906
-Port Michael, VI 98939",653d44e2-f264-4608-83b1-d474fa48a962,2020-07-25,677e9745-1710-4a11-b8e9-57e06b01d82f,Clothing,Brand_A,357.0,23.0,2.0,3.0,Medium,09,1995,Winter
+Port Michael, VI 98939",653d44e2-f264-4608-83b1-d474fa48a962,2020-07-25,677e9745-1710-4a11-b8e9-57e06b01d82f,Clothing,Brand_C,357.0,23.0,2.0,3.0,Medium,03,1995,Winter
 561,298f0ff3-4d0d-4909-ad6e-cf45d50fa779,43,Female,Low,"74306 Martin Inlet Suite 580
 Sierraburgh, FM 40747",53c4f884-f330-4d51-bf6a-e2fc5dede57a,2023-08-07,d433a844-d471-49ad-9d98-556ed527bc73,Electronics,Brand_C,69.0,82.0,10.0,4.0,High,05,2013,Winter
 563,6daf98df-8310-4fb0-8e51-357571f3e1d4,47,Other,Low,"729 Timothy Unions
@@ -1046,9 +1094,11 @@ North Matthew, VI 00706",e727fae9-7579-482a-99db-15e553512444,2022-07-13,a51cb73
 582,f7fa7a86-6129-4b7d-af5e-8016267e22d4,29,Male,High,"34974 Tyler Light
 Jamesborough, LA 87715",e0799c45-56c8-478d-9e80-36d132f90b9e,2023-03-02,35b6cd68-c14d-4274-8e2a-64a07c493253,Electronics,Brand_C,59.0,100.0,3.0,3.0,Low,04,1996,Spring
 583,c83afafa-2568-435c-aec1-96857cc3ad26,18,Female,Medium,"51602 Rivera Prairie Suite 422
-North Pamela, VI 24300",a11951e5-300e-4611-be02-35782cc9605a,2020-02-01,6f456327-1772-4051-a911-6ded31f683e8,Books,Brand_B,242.0,69.0,2.0,8.0,High,11,2010,Fall
+North Pamela, VI 24300",a11951e5-300e-4611-be02-35782cc9605a,2020-02-01,6f456327-1772-4051-a911-6ded31f683e8,Books,Brand_B,248.0,69.0,2.0,8.0,High,11,2010,Fall
 584,c29e8ca5-d586-4a45-bbca-73cee072c0bf,76,Male,High,"529 Brown Ramp
 Lake Dannymouth, PW 56639",80ce3333-5b82-4adc-8e12-d7503e09a6e4,2023-08-24,d630c0cd-c916-44f9-90f0-b4955ef8f79c,Clothing,Brand_C,31.0,17.0,1.0,2.0,High,11,1990,Fall
+585,acdf12b1-bab8-4278-a5ec-c2d250b1cc2d,35,Female,Medium,"1413 Jeremy Fall Apt. 889
+Kristintown, NY 20877",0234c8f7-284c-4ce6-bcfa-078660207cfc,2021-05-31,d630c0cd-c916-44f9-90f0-b4955ef8f79c,Electronics,Brand_A,489.0,64.0,1.0,3.0,Medium,11,2014,Fall
 586,ec112e7b-5f7a-4829-8d2e-2a4d7fa2f777,42,Other,Medium,"4724 May Expressway
 West Markfort, ID 72234",1a486cda-b4e3-4632-a342-0fedceec18b8,2021-08-20,c31d0833-f9bb-4a00-ae86-433744476c98,Clothing,Brand_B,264.0,52.0,3.0,4.0,High,02,1993,Summer
 588,3a2f62c8-a16d-43fd-94d3-6fe4cb71dcc9,63,Female,High,"PSC 0739, Box 2417
@@ -1066,9 +1116,11 @@ Wigginsfurt, GA 20726",6fafaa3e-31c9-45f1-bf5d-7637b6e5c272,2021-11-15,a8dcb479-
 595,6ceddb48-ed62-46e1-8c56-15953d05780c,37,Other,Low,"7130 Frank Manors
 Danielsland, NH 01025",e2425890-8af8-437e-be04-1e875ff72657,2020-03-02,1dfad74a-1784-4c73-ad0f-272d41e58998,Electronics,Brand_B,364.0,35.0,3.0,6.0,Low,12,2012,Winter
 596,1aaf6097-44df-4892-a351-cfee7e980b69,33,Female,Low,"1605 Christopher Plains
-West Jonathan, CO 95679",7b961249-c41f-4563-84bf-f9a8e6bdc935,2020-03-02,58575f9d-0a67-4ce8-8ab4-9c1489b807e2,Electronics,Brand_A,242.0,97.0,1.0,4.0,High,10,2015,Summer
+West Jonathan, CO 95679",7b961249-c41f-4563-84bf-f9a8e6bdc935,2020-03-02,58575f9d-0a67-4ce8-8ab4-9c1489b807e2,Electronics,Brand_A,248.0,97.0,1.0,4.0,High,10,2015,Summer
+597,876ac1c3-6be5-4566-9e41-631d8f518243,30,Female,High,"34634 Rodriguez Haven
+Lake Gregorystad, FM 70410",b7dc5701-40da-4f6e-b95b-5aaa0fd3b640,2021-06-08,58575f9d-0a67-4ce8-8ab4-9c1489b807e2,Clothing,Brand_C,111.0,76.0,5.0,8.0,Low,05,2000,Summer
 598,9b02e019-3f4f-4b3e-9725-a38bb037f76a,23,Female,Low,"51909 Tony Turnpike
-West Bobby, ND 65163",7b961249-c41f-4563-84bf-f9a8e6bdc935,2022-08-29,87d2ad2b-e467-4637-b983-c82264fd0489,Books,Brand_A,106.0,59.0,2.0,2.0,Medium,05,2018,Spring
+West Bobby, ND 65163",b7dc5701-40da-4f6e-b95b-5aaa0fd3b640,2022-08-29,87d2ad2b-e467-4637-b983-c82264fd0489,Books,Brand_A,106.0,59.0,2.0,2.0,Medium,05,2018,Spring
 599,5ac30785-d678-4897-87c1-4a6de3959e8a,36,Female,Low,"5920 Conley Garden Suite 863
 Fisherberg, MO 11669",71049f34-df01-46ca-b409-559251b01a9a,2022-05-12,21b5aac8-2f5f-488f-a612-3e09027558f3,Electronics,Brand_B,117.0,20.0,5.0,3.0,Low,07,2005,Summer
 600,efed1dcb-ff28-476d-9dad-6cc13a3edc1a,23,Other,High,"324 Middleton Ramp Apt. 374
@@ -1078,7 +1130,7 @@ Arnoldstad, ID 48055",52677899-aa19-4755-9a8b-9d2805c00d0b,2021-12-03,292bcfbd-4
 602,58e1096d-a80f-416c-8943-4bab6b3a2ada,49,Other,Medium,"851 Maynard Row
 Arnoldstad, ID 48055",125bad5e-b6ec-411a-8e54-922206e86d4c,2022-06-17,7713d68c-6f7c-4707-b74b-fb94c88fb101,Electronics,Brand_C,395.0,32.0,5.0,2.0,High,10,1978,Fall
 603,453b38a1-31f1-45b3-9c65-2f54dffdae50,70,Male,Medium,"17981 Lisa Extensions
-West Jenna, KY 69545",f2d9c5ec-8097-4ca9-964e-26e5300aee48,2021-01-05,4b531319-11d1-4ee3-8ccc-f817119afefa,Electronics,Brand_C,242.0,16.0,8.0,7.0,High,08,2011,Spring
+West Jenna, KY 69545",f2d9c5ec-8097-4ca9-964e-26e5300aee48,2021-01-05,4b531319-11d1-4ee3-8ccc-f817119afefa,Electronics,Brand_C,248.0,16.0,8.0,7.0,High,08,2011,Spring
 604,62bd4fd5-648d-485d-9769-f89b6f213f2b,42,Female,High,"78849 Beard Track Suite 298
 Stephenchester, ND 03652",c85443a7-9775-4a96-96fc-254d901e4b53,2023-07-23,c5efbd4f-c2b2-4235-af3e-af262b9c7eff,Electronics,Brand_C,369.0,23.0,1.0,3.0,Low,12,1990,Winter
 605,c33e9d8d-7209-45b3-bca2-77823971fb74,62,Male,High,"298 Hines Springs Apt. 582
@@ -1088,7 +1140,7 @@ APO AA 03547",6fc7d54a-c8cb-4baf-a8f6-db1180e3c04d,2023-11-27,a032af23-05ca-4947
 607,a18340d5-f801-4218-847c-f903899ab7fa,65,Female,Low,"50316 Martinez Unions Apt. 336
 North Kimberly, OK 51132",7e0806be-9533-4dd4-9ec9-650f01a8d256,2020-11-10,8fd15394-f7ec-482f-98a5-033a10cb940a,Clothing,Brand_B,35.0,70.0,2.0,10.0,Medium,04,1993,Winter
 608,aa18c35b-ceaf-41e3-8fe0-57896b93767f,64,Male,Medium,"9849 Timothy Mills
-Michellemouth, AL 02235",665933c9-494a-4f11-b91e-4235d4384174,2022-06-22,1d0c263c-3aaa-4636-9040-5fa3d679c3c6,Clothing,Brand_A,242.0,91.0,6.0,9.0,Medium,05,2012,Spring
+Michellemouth, AL 02235",665933c9-494a-4f11-b91e-4235d4384174,2022-06-22,1d0c263c-3aaa-4636-9040-5fa3d679c3c6,Clothing,Brand_A,248.0,91.0,6.0,9.0,Medium,05,2012,Spring
 609,e5e211ed-47bc-4728-8192-1c12caa68efa,78,Female,Low,"751 Nicholas Vista Apt. 885
 West Jake, KY 71585",9f8576b2-5891-483e-a104-b46e19be16bf,2020-08-31,13fb58a3-8c83-478f-b7c6-9b539781d65b,Electronics,Brand_A,179.0,22.0,6.0,6.0,High,11,2011,Winter
 610,e5e211ed-47bc-4728-8192-1c12caa68efa,46,Other,High,"83027 Graham Gardens
@@ -1125,6 +1177,8 @@ Fisherstad, AR 63063",20dea56c-2398-4118-a8aa-8654bcf2a98b,2022-08-14,c89c364e-4
 New Bradburgh, WY 71493",050ba5fc-b323-4aee-8ffc-e9e259fcf23c,2022-08-14,e8d99070-a05a-47ea-84db-270d92b7df24,Electronics,Brand_A,255.0,47.0,2.0,7.0,Medium,06,2008,Fall
 626,04c1f5de-20c8-406a-aa57-a27e5e6dee2b,22,Male,Medium,"620 Annette Lights Apt. 267
 South Rebeccaberg, WA 73365",c1f313f9-8760-472c-8f1c-91784b14bb7a,2021-08-07,5c06688b-a4d9-43e0-8d0f-d7d0bc8d6e0e,Clothing,Brand_C,173.0,40.0,6.0,8.0,Low,01,2023,Spring
+627,1f0366a8-054a-4de7-8648-b9090b21f376,65,Male,Low,"8475 Jill Underpass Suite 312
+South Elizabeth, AS 61114",dcf7eba7-329b-48b2-8518-bfe1b0df8f8e,2021-04-01,5c06688b-a4d9-43e0-8d0f-d7d0bc8d6e0e,Clothing,Brand_B,364.0,29.0,1.0,8.0,Medium,08,1981,Spring
 628,2e900c94-ead1-4066-a4e3-5e6b9bf36a4f,31,Female,Low,"4228 Moon Divide Suite 531
 Port Ericshire, TX 42438",c3f12f8f-ab32-48fb-b902-788da1c0caeb,2022-09-23,e85693f6-af37-4679-9f9b-62432f10a0a6,Electronics,Brand_B,188.0,49.0,9.0,4.0,Low,11,1999,Fall
 629,2b3f7764-22bd-4d29-b717-794ae6ace3e5,38,Other,High,"3900 David Knolls Suite 489
@@ -1177,7 +1231,9 @@ Paulfort, GU 30406",6a5a5741-a8ff-41c0-86c5-e69217773e37,2023-10-22,c6487cb7-1f1
 West Robert, KY 00984",2c742679-5dad-4e02-843c-3e7930cc3298,2021-11-09,6fba6b78-e1e2-44c5-b614-7b1eec7385ec,Electronics,Brand_B,101.0,47.0,2.0,3.0,Low,06,2015,Summer
 654,dead6594-b896-4db9-8370-d133cb397f63,31,Female,High,"8057 Charles Garden
 Ryanmouth, VI 58046",ca7301a2-569e-4fc6-bef3-cbb6ba851b63,2020-01-18,b4a96604-8c4d-4121-9cfb-494ea469b829,Books,Brand_A,262.0,6.0,6.0,6.0,High,04,1979,Winter
-656,dead6594-b896-4db9-8370-d133cb397f63,55,Male,Medium,"8492 Benjamin Garden
+655,548aced4-d03a-493d-b3ff-c5a81491a7fd,54,Male,Medium,"62093 William Avenue Suite 657
+Navarroberg, AR 10648",312a3df3-5e14-46ac-9965-c123358d00c1,2021-11-28,b4a96604-8c4d-4121-9cfb-494ea469b829,Clothing,Brand_A,454.0,19.0,1.0,1.0,High,06,1983,Winter
+656,548aced4-d03a-493d-b3ff-c5a81491a7fd,55,Male,Medium,"8492 Benjamin Garden
 Jeffreyside, MH 49685",cf466f34-add0-4f2e-a173-c22257a2aa3e,2021-12-29,fdc0d009-b57e-4c9f-b552-90fd6800aaba,Electronics,Brand_A,226.0,50.0,8.0,6.0,Medium,08,1983,Fall
 657,21cfbfeb-cc8f-475d-ba47-925fa2e3f14e,33,Male,High,"8492 Benjamin Garden
 Jeffreyside, MH 49685",cf466f34-add0-4f2e-a173-c22257a2aa3e,2023-10-27,05f9a7d2-6e85-4455-9d19-4fb82a29c757,Electronics,Brand_A,350.0,35.0,8.0,1.0,Low,04,1981,Winter
@@ -1187,6 +1243,8 @@ Montgomeryfort, MI 82615",8d16fbf9-34c5-4705-ba3b-3ab63b31884e,2020-04-28,4fa3bf
 Taylorfort, AK 12732",4fcbfb7e-549a-4c9f-a450-7535d0e48583,2020-07-23,522a75ce-43b2-47e6-881e-f1ba89b9795b,Clothing,Brand_A,203.0,40.0,10.0,3.0,Medium,11,2017,Winter
 660,c5aa54cf-27c0-4f74-8130-6c6eca562a67,30,Male,Medium,"92336 Arias Spring Suite 828
 Taylorfort, AK 12732",3f7f8ce6-9c15-4124-80f2-754ac510545f,2023-11-20,8bea3eb3-52b2-44d1-a7fb-aed5295eff6d,Electronics,Brand_C,340.0,69.0,6.0,1.0,Medium,09,1998,Summer
+661,a86dd2ab-3817-43c1-bca5-75db2a60bc1a,18,Other,Low,"966 Brown Pine Suite 292
+West Madelinemouth, GA 08083",9892708b-185f-4b4c-b037-7534f809c479,2023-01-06,8bea3eb3-52b2-44d1-a7fb-aed5295eff6d,Clothing,Brand_B,110.0,50.0,1.0,4.0,High,03,2022,Fall
 662,cb060efa-ce13-4947-aa80-ca5bc5eee175,70,Male,High,"7644 Higgins Hill
 Huffmanview, DC 11898",dc80014e-943a-4d59-bfcd-7b3cad70351e,2020-01-14,f266d685-a7fe-45c1-b993-b5c08b645f18,Books,Brand_A,285.0,34.0,7.0,2.0,High,09,1977,Spring
 663,ce8a9409-5ad4-498e-be61-8a20cff97673,38,Other,Low,"342 Monique Mall
@@ -1246,7 +1304,7 @@ Cunninghamside, AR 49546",6e8f3857-e327-4e9e-9235-b00deae669b1,2020-05-15,11a075
 692,2cfa8ad3-7e81-47b2-b3f9-e0d4ab8304b5,79,Female,High,"2130 Black Camp
 Deniseland, GA 81926",254221a7-58df-4c59-bcd5-1c1d9693afaf,2022-01-12,6c1f970f-1b84-481d-a285-080bdd6214c3,Clothing,Brand_B,418.0,95.0,6.0,8.0,High,09,2014,Summer
 693,f702ce4f-02b6-4cc1-a239-eeaaced5639f,63,Other,High,"82694 Michael Passage Apt. 488
-Juliehaven, NC 47117",3d141834-a4dd-46ea-af64-5a008247f7fb,2023-01-21,fbf04c7c-dd79-4aee-8537-44020f95e422,Books,Brand_A,242.0,98.0,5.0,3.0,Medium,12,2019,Summer
+Juliehaven, NC 47117",3d141834-a4dd-46ea-af64-5a008247f7fb,2023-01-21,fbf04c7c-dd79-4aee-8537-44020f95e422,Books,Brand_A,248.0,98.0,5.0,3.0,Medium,12,2019,Summer
 694,f9c60610-970b-48be-a775-297e6778d354,72,Female,Low,"6081 Summers Skyway
 Wilkinsborough, WV 67322",c1188680-0784-4791-8226-67129d9ad29a,2023-05-18,603178ee-fbdb-49a5-b2d6-dd83b8c3a543,Electronics,Brand_A,489.0,76.0,4.0,7.0,Medium,05,1996,Spring
 695,89dbb7de-e999-4d3c-a683-9144e5617a4b,56,Other,Medium,"0204 Miguel Plain
@@ -1257,6 +1315,8 @@ Watershaven, VT 28084",06bec7c1-cd3b-489f-a5fd-9cdfe63109cc,2020-06-12,c2f78eff-
 West Courtneytown, PW 42990",6660eecb-93f4-4492-bc4d-cea0ee3a3d5d,2021-02-03,490c8fad-1f61-4568-9d46-8aa8315fa58e,Books,Brand_C,309.0,57.0,8.0,1.0,High,08,2010,Spring
 698,3af49b1d-3809-4a8c-a021-815cd0901151,63,Other,High,"69648 Oneal Island
 Lake Mark, LA 99268",6f11dd51-b3e0-444f-8d3a-5391e7eba2a1,2021-05-26,85aa4ba2-f2da-4a07-89cd-10289aece87b,Clothing,Brand_A,56.0,21.0,1.0,9.0,Medium,03,2007,Spring
+699,e901a6b1-30b9-4472-a5df-31d169cec0e6,64,Female,High,"67176 Sanders Meadows Apt. 843
+Tammyton, NY 84707",85d1d18a-65c1-457e-ba69-a2284524cc62,2023-03-15,85aa4ba2-f2da-4a07-89cd-10289aece87b,Electronics,Brand_C,292.0,15.0,2.0,2.0,Medium,07,1976,Summer
 700,82119406-f9fb-4d8a-8027-492bab327dc9,60,Female,Low,"22205 Olivia Plaza Suite 873
 Andersonstad, PW 44278",b76dd2f7-7790-43d9-806f-2d3f0a7b34bf,2023-09-08,50175dce-5692-4cc2-b2c0-976f72f5565f,Electronics,Brand_B,231.0,52.0,6.0,7.0,Medium,10,1975,Summer
 701,c40ae290-3352-447d-9223-4331356fc950,27,Female,Medium,"1886 White Roads
@@ -1299,8 +1359,10 @@ Haydenport, VT 39249",8574292e-ad00-4932-b895-706e81c2dbe1,2021-12-21,22768740-6
 Aliciafort, WY 52510",071eaf3f-fc72-4058-86d6-1c91a06dc59e,2020-09-20,1450e5de-e598-4e90-9875-27ec5778dbee,Electronics,Brand_B,400.0,88.0,3.0,5.0,Medium,05,1970,Spring
 721,c190c939-85f9-4da1-af0f-4301ffb105b2,26,Other,Medium,"17347 Murphy River
 Calderonchester, CT 49167",234ff67e-693b-4ce9-97c6-749db62500c8,2022-11-01,9aeba51d-0443-4174-88a6-fd8ceb8b97de,Books,Brand_B,385.0,35.0,8.0,6.0,High,09,2022,Winter
+722,77a46fb5-88f2-4770-ac73-6caa30378012,25,Female,High,"USCGC Young
+FPO AE 62636",234ff67e-693b-4ce9-97c6-749db62500c8,2021-06-22,9aeba51d-0443-4174-88a6-fd8ceb8b97de,Books,Brand_A,426.0,97.0,5.0,8.0,High,07,1980,Summer
 723,d1c7fe9b-0164-43a1-a0d3-e8860adceaac,38,Other,Medium,"4625 Justin Mill
-West Stacy, AR 91419",efdbf095-0971-46f7-a3e2-bc569477e302,2023-03-01,e82abac8-6a75-41d5-a5b2-5f7d2b548ee8,Books,Brand_B,416.0,45.0,9.0,6.0,High,09,1983,Fall
+West Stacy, AR 91419",efdbf095-0971-46f7-a3e2-bc569477e302,2023-03-01,e82abac8-6a75-41d5-a5b2-5f7d2b548ee8,Books,Brand_B,416.0,45.0,9.0,6.0,High,07,1983,Fall
 724,9f5c523d-ab48-489c-a56b-4b8f44b5ece8,78,Female,High,"PSC 6613, Box 0641
 APO AE 74443",22b0d32d-746e-4615-b576-a112e4f452eb,2020-05-18,0d7b8fc3-7712-405f-8c85-5351f0925f16,Books,Brand_C,44.0,55.0,2.0,3.0,High,10,1982,Spring
 725,26dd00c3-2808-4fa2-a19e-d2a19a7db515,72,Male,Low,"77596 Juan Square Suite 817
@@ -1342,7 +1404,7 @@ Caseyborough, SD 27449",a56ae681-b1d2-45fc-acdb-80db03bb1fb2,2021-05-23,b4a2c603
 744,3713b4c7-f93a-4c01-9ecf-a65f3a3873aa,21,Female,Medium,"646 Maria Bypass Suite 067
 North Madison, ID 05282",51fdfdfa-38f2-44c0-968e-09224ad217a3,2022-02-06,8d64541e-d2bb-4b58-a628-52f30e60256a,Electronics,Brand_B,190.0,72.0,5.0,4.0,Medium,10,2012,Winter
 745,3f1650f1-2a43-4072-92dd-c6e557cf95e6,25,Male,High,"646 Maria Bypass Suite 067
-North Madison, ID 05282",4ad38b87-d23f-46d5-952a-a0ef5c5307f1,2022-10-05,1e2ecb60-9617-4e61-9c88-1c942a9e3e14,Electronics,Brand_C,242.0,20.0,3.0,2.0,Low,09,1984,Winter
+North Madison, ID 05282",4ad38b87-d23f-46d5-952a-a0ef5c5307f1,2022-10-05,1e2ecb60-9617-4e61-9c88-1c942a9e3e14,Electronics,Brand_C,248.0,20.0,3.0,2.0,Low,09,1984,Winter
 746,6c6a311e-3f40-4f67-ad5b-82dca7a32ac0,35,Female,High,"0221 Crawford Via
 Odonnellburgh, AZ 75394",6adecbb8-db78-49bf-a445-b193f5df58f5,2022-10-05,9ae407ce-52bb-475e-933d-7e55eaa19530,Clothing,Brand_C,293.0,31.0,5.0,7.0,Low,02,2015,Spring
 748,f1b1a3e3-1c50-4b39-93a4-afcd944d3dd0,60,Male,High,"038 Victoria Landing
@@ -1374,7 +1436,7 @@ FPO AP 08789",514bc8d0-a02d-4065-a2ad-bdb58f7c8998,2021-11-18,f7d4b669-68b3-4f5c
 764,f8f4f1e6-ee6a-4b63-a629-a0469e324fd7,68,Female,Medium,"8497 Gibson Forest
 West James, MT 45699",514bc8d0-a02d-4065-a2ad-bdb58f7c8998,2022-10-01,ee0ed636-e1ce-4a04-854a-23eeb048f507,Books,Brand_B,392.0,81.0,2.0,6.0,Medium,12,1994,Summer
 765,284046f3-9692-469a-bd3b-315bf90c2082,32,Male,High,"888 Villanueva Islands
-South Ashley, NE 13759",fc8c3873-4fcd-4685-ae5a-9befab6284a6,2023-07-02,7d1b0258-a065-428b-b56d-d7b93340a989,Books,Brand_B,242.0,98.0,5.0,9.0,Medium,05,1996,Winter
+South Ashley, NE 13759",fc8c3873-4fcd-4685-ae5a-9befab6284a6,2023-07-02,7d1b0258-a065-428b-b56d-d7b93340a989,Books,Brand_B,248.0,98.0,5.0,9.0,Medium,05,1996,Winter
 766,6ef5d834-d34c-43e8-89e0-ef4708236db9,59,Male,Medium,"2085 Keith Roads
 Lake Adam, WI 23645",84ba7fde-5b32-4f6a-9620-e76285c89612,2021-03-08,98059e5a-8f48-4545-a8fd-3cbc38d924eb,Books,Brand_C,452.0,74.0,9.0,3.0,Low,12,2020,Fall
 767,308f6744-0a72-4896-861d-e4fc8e48f548,74,Other,Low,"00282 Anderson Gateway
@@ -1399,8 +1461,10 @@ FPO AP 48655",7dda4eea-7401-4c12-9027-34ad9bdc1466,2020-01-29,cf740993-e610-41bd
 Lake Jessica, ME 35534",def1e372-ca85-4f1c-b598-02482905cdcb,2020-02-01,5320f5e4-197d-4dd7-a6cd-e8dee18da416,Electronics,Brand_A,494.0,88.0,5.0,4.0,High,10,2014,Summer
 777,eab7696e-f213-4997-82a6-c7c20f753f61,70,Male,Low,"Unit 8043 Box 6159
 DPO AE 62139",39a089f9-3a67-4ba5-baea-61b6e0642103,2023-02-18,057ba3eb-06c3-4050-b56e-dbfedb8726ce,Clothing,Brand_A,182.0,24.0,6.0,2.0,Low,02,1991,Summer
+778,e4e28952-43f4-4ccc-a20a-491e86578f18,79,Male,Medium,"316 Gina Wells Suite 025
+Port Katherinemouth, ND 49749",20b65750-7306-479e-a7d0-bf6dfb65bbb0,2022-05-16,057ba3eb-06c3-4050-b56e-dbfedb8726ce,Books,Brand_C,288.0,56.0,5.0,8.0,Medium,11,2014,Summer
 779,0c596284-66e2-4371-959d-81315c86550b,37,Male,Low,"479 Lee Valleys Apt. 651
-Port David, OH 97519",03962e33-6299-45f2-8d82-bd963b24e85d,2021-09-01,c25b1040-a3e9-493d-9b60-8de46242cffe,Books,Brand_A,302.0,26.0,3.0,3.0,High,02,1991,Winter
+Port David, OH 97519",03962e33-6299-45f2-8d82-bd963b24e85d,2021-09-01,c25b1040-a3e9-493d-9b60-8de46242cffe,Books,Brand_A,302.0,26.0,3.0,3.0,High,02,2014,Winter
 780,b1fe6b0b-3242-4d84-b5be-660cb88802a3,20,Female,High,"89485 Ramsey Ford Apt. 660
 Scottside, WV 43497",4f6a3aed-77c3-460e-bed6-53ce2b416159,2020-01-14,28cc01cc-baeb-4145-aa82-bb5eb75c2473,Electronics,Brand_A,38.0,50.0,1.0,7.0,Medium,05,1986,Summer
 781,f7d2ebef-3f47-4b2d-9cb2-dadfadc5ab33,60,Male,Low,"765 Brown Brook Suite 953
@@ -1421,6 +1485,8 @@ Coreychester, ID 44169",20d93390-b7f4-4ec0-b270-f3585228a4ed,2020-12-18,52dc979e
 South Jessicaberg, SC 17902",638cded1-9504-4fc9-a1e1-09ee49388c8e,2020-01-03,495c76ec-35f1-4b80-86b5-b91558ffb2a5,Electronics,Brand_C,428.0,92.0,1.0,7.0,Low,01,2001,Winter
 789,17604239-49e0-4148-a1df-58162aa7965d,52,Male,Medium,"1404 Jennifer View
 Adamschester, AZ 70616",a19e8a71-7899-4918-b61b-721eead148cf,2021-07-03,3254052b-9251-4ac7-8c4f-4d51ba063723,Books,Brand_A,96.0,74.0,3.0,2.0,Medium,08,2009,Spring
+790,95611a27-bf69-4a34-ba58-c1b7b55ca7f5,50,Other,High,"696 Sparks Roads
+Port Richardborough, VT 99831",b822e359-b218-451c-b86a-695720f09af8,2021-12-14,3254052b-9251-4ac7-8c4f-4d51ba063723,Books,Brand_A,18.0,81.0,3.0,10.0,Medium,10,2009,Spring
 791,4981fd6b-8a09-42a1-9d88-f88c7f60c673,41,Other,High,"85382 Phillips Parkway Suite 923
 Angeltown, MS 82124",693dd5b0-a647-458e-a72c-aa728246cb5b,2022-12-27,0d745832-f670-4116-b82b-f4176ca6ea69,Electronics,Brand_A,39.0,16.0,9.0,4.0,Low,09,1972,Summer
 792,5f900e3b-6860-4483-a2ab-e9accd904676,62,Female,Low,"87561 Ian Station Apt. 579
@@ -1439,6 +1505,8 @@ Lake Jimmy, FM 75050",e1e796fd-382a-4a2f-ad77-2150b54af8c7,2023-02-18,b45ef745-e
 APO AP 74535",0f6bf1ef-a768-40eb-94a2-ca21faa48c5a,2023-02-18,5c80f7f5-bbfe-469b-9c41-fa0260f8e5f6,Clothing,Brand_A,438.0,34.0,9.0,9.0,Medium,03,1974,Winter
 799,1784e5c7-6848-4364-a076-9a8019303c80,74,Male,Low,"24200 Holmes Ridges Suite 065
 Margarettown, TX 93205",dc22a76f-c494-433c-94cf-08bd6d226f44,2020-06-08,ddb6ff4a-d049-4e2e-a8f8-3a5362da764e,Books,Brand_C,422.0,53.0,8.0,7.0,Low,12,2015,Fall
+801,6c73d6ce-74f2-4bae-9b60-5224af42f9fe,79,Other,Medium,"712 Steele Station Suite 311
+Anthonyberg, WI 40601",26b472b9-7c35-4ab1-be0e-326ddfbaa549,2023-06-25,ddb6ff4a-d049-4e2e-a8f8-3a5362da764e,Books,Brand_C,110.0,37.0,2.0,2.0,Medium,03,2002,Summer
 802,12e245d0-40b4-4c50-b204-5c2a75e0e876,58,Female,Medium,"878 Robertson Glens Suite 303
 Wheelerchester, DC 02198",c3637935-c546-43ab-80c3-0ff54f0ae33a,2021-01-12,997a234d-af26-46b6-a2c1-009664b4a2b8,Books,Brand_A,287.0,81.0,3.0,3.0,Low,07,2005,Winter
 803,1235bae0-1787-4f61-8446-1305f960d7ab,21,Male,Medium,"0747 Larry Keys
@@ -1464,13 +1532,13 @@ North Seanburgh, UT 59923",1782ed0f-a4f8-4926-b52a-a9882f4ed3de,2022-11-03,7b71d
 813,b62c9217-a621-4f0d-8bfe-4be016a65781,62,Female,Low,"698 Denise Crescent Suite 625
 West Kayleeside, FL 32977",60a796c0-1125-471a-9e02-a528c19b674d,2020-01-23,73453e59-ec5c-402b-8b6f-bbb0ba7b8cd4,Electronics,Brand_C,136.0,50.0,2.0,1.0,Medium,09,2023,Spring
 814,3cddcc8e-e3d5-4a23-a01b-3746966d188c,30,Other,Low,"297 Allen Manors
-Hendersonfurt, VA 56844",a4f63c7d-0ccc-4d71-9289-ad944de40c38,2020-04-16,ef817d47-0474-475b-ab31-cde429fbf903,Clothing,Brand_A,242.0,83.0,8.0,1.0,Low,01,2018,Spring
+Hendersonfurt, VA 56844",a4f63c7d-0ccc-4d71-9289-ad944de40c38,2020-04-16,ef817d47-0474-475b-ab31-cde429fbf903,Clothing,Brand_A,248.0,83.0,8.0,1.0,Low,01,2018,Spring
 815,50ebbc64-c02d-4a8a-88e4-52838d824aba,60,Female,Medium,"Unit 8233 Box 8972
 DPO AE 88460",47227c24-14e9-4d96-ac7c-734940661be7,2023-04-28,b3800e03-55b1-43e5-a0ca-7af55b841928,Books,Brand_C,469.0,98.0,3.0,10.0,Medium,08,1991,Winter
 816,65155db9-4b44-40ba-8367-01671c3f216c,49,Other,High,"770 Cruz Divide Suite 059
 Moniqueton, NM 53382",4fbc8ea3-a597-4769-9f46-02a3116206e9,2020-05-04,0141dbe1-83cc-4e77-ac19-114bc51d3f72,Books,Brand_A,29.0,76.0,9.0,9.0,Low,06,2000,Summer
 817,65155db9-4b44-40ba-8367-01671c3f216c,20,Other,Medium,"72696 Joseph Stream Suite 836
-Brentstad, DC 37508",068eb445-4a52-47a8-ad51-b8810e68d7c3,2020-09-19,078d7ede-ba03-457b-9b30-f32653d83faa,Electronics,Brand_B,242.0,63.0,5.0,1.0,High,05,1984,Spring
+Brentstad, DC 37508",068eb445-4a52-47a8-ad51-b8810e68d7c3,2020-09-19,078d7ede-ba03-457b-9b30-f32653d83faa,Electronics,Brand_B,248.0,63.0,5.0,1.0,High,05,1984,Spring
 818,6b7d7a6c-3a59-4de9-81da-45442b914ee5,46,Other,Low,"82442 Vega Spur Apt. 720
 Port Jeffreytown, VT 33138",722eac1b-3a42-40a5-ade7-5afcdfa5cc19,2023-09-02,13a877a7-4558-4ac4-b6b3-cb43c64bfdf2,Clothing,Brand_A,470.0,89.0,7.0,1.0,High,10,2017,Winter
 819,01145392-07e6-45f6-ab82-995db066119d,48,Male,Low,"4447 Conner Greens Suite 632
@@ -1502,7 +1570,7 @@ West Troy, KS 63556",431cc535-deec-47a4-b90f-7aa03584b042,2021-02-17,080126ef-2b
 834,33e6c117-37d2-4193-baca-204732bbd2e0,31,Male,Low,"04342 Nathaniel Center
 Clarkchester, MT 21526",51068596-6e6f-4060-94ae-5b9ad876ba3a,2022-12-02,18d7a288-3fed-4c7d-8707-4c0a09f236ed,Electronics,Brand_B,73.0,5.0,9.0,6.0,High,12,1983,Winter
 835,59c67be7-88ca-46a5-85fc-a6fafd8e1846,31,Female,Low,"456 Shaw Streets Apt. 221
-West Edwin, SD 38955",6cf931a5-f7dc-4e44-8845-dbaf2eb30817,2023-10-01,8d70abb4-2fb9-4e68-814f-a332d168bb95,Clothing,Brand_C,242.0,96.0,1.0,2.0,High,03,2001,Fall
+West Edwin, SD 38955",6cf931a5-f7dc-4e44-8845-dbaf2eb30817,2023-10-01,8d70abb4-2fb9-4e68-814f-a332d168bb95,Clothing,Brand_C,248.0,96.0,1.0,2.0,High,03,2001,Fall
 836,e8e5d496-005b-4f1a-98b3-5cdb0f5ccc62,24,Other,Medium,"USNV Pierce
 FPO AE 37641",7285c823-4a53-4545-a89e-e8f2707f5d9e,2023-06-08,4fc02f4b-04f5-4ddb-8f51-b1b3f3608632,Electronics,Brand_C,206.0,5.0,1.0,8.0,Medium,04,2022,Summer
 837,1c33e057-59e9-4f94-bb29-30c195d56f63,29,Female,High,"658 Moore Islands Apt. 784
@@ -1541,8 +1609,10 @@ Lake Williamburgh, NH 29925",b90cb452-6e82-43a7-b92b-ecbea71ef14a,2021-03-31,8e2
 West Markstad, MS 82390",42dea906-902b-4c64-b16b-0d13e1720e05,2023-05-10,8f81ee5a-e085-4a27-b178-6443801e020a,Electronics,Brand_A,110.0,20.0,10.0,6.0,Medium,07,2002,Spring
 854,70fa3e65-f990-4e05-8a09-2d316fa34d3e,54,Male,High,"3590 Julia Fall
 Robertshire, PA 07822",695caef1-5072-4c92-ae95-8e1b421f0f25,2021-08-03,ea1fde12-7029-433c-b24f-7869b5990d3b,Electronics,Brand_A,269.0,50.0,1.0,3.0,Medium,11,2009,Spring
-856,a8ca98ec-b243-433e-ac18-c68a6028a3cf,38,Male,Medium,"3590 Julia Fall
-Robertshire, PA 07822",a2473e80-68af-4cda-b56b-1d1d6473eb00,2022-06-07,45180016-e2d8-41fd-b06c-b65dfbdf2eb5,Electronics,Brand_A,198.0,10.0,3.0,3.0,Medium,05,1983,Winter
+855,80bf8568-817f-4901-9da0-1a71b8c0989e,19,Female,Low,"3881 David Road Apt. 168
+North Kaylatown, UT 11012",b28febff-9ec6-407b-8de3-bdce785fde8e,2022-05-10,ea1fde12-7029-433c-b24f-7869b5990d3b,Books,Brand_C,469.0,61.0,8.0,5.0,Low,06,2012,Summer
+856,a8ca98ec-b243-433e-ac18-c68a6028a3cf,38,Male,Medium,"3881 David Road Apt. 168
+North Kaylatown, UT 11012",a2473e80-68af-4cda-b56b-1d1d6473eb00,2022-06-07,45180016-e2d8-41fd-b06c-b65dfbdf2eb5,Electronics,Brand_A,198.0,10.0,3.0,3.0,Medium,05,1983,Winter
 857,e81bc7f3-f7e2-4d86-90d1-a369017de352,43,Other,Low,"4757 Jones Creek Suite 750
 Yorkland, FM 16751",519b6bc2-23b8-46c5-9dc4-5490fd4ad51e,2020-09-08,73e5177c-6bb1-4dac-9be9-d1da0ab30493,Books,Brand_A,365.0,91.0,4.0,2.0,High,09,1993,Summer
 858,9a232f6b-4e39-4e54-8633-ba5029cfac2f,74,Female,High,"81295 Long Viaduct Suite 206
@@ -1571,8 +1641,10 @@ Chavezmouth, DC 77763",f3ef713c-2c5c-4b3e-b0c4-a79f3c1f93b7,2022-10-30,d9078395-
 Aliciaborough, IL 88365",3d67277c-e7e3-4a50-a4aa-dff35e983470,2020-02-20,cd59c393-7865-49ff-a903-4225f71edfa8,Electronics,Brand_A,317.0,29.0,5.0,7.0,High,10,1985,Winter
 872,0018cd02-5c53-4137-8a27-d54c947f193a,71,Male,Medium,"64646 Jason Inlet
 South Courtney, SD 04412",78aad9a0-5f24-4581-9164-0055b9a2d36f,2022-04-03,1a602f33-a426-4314-85d3-5c1d9dbb4d9d,Clothing,Brand_A,48.0,10.0,4.0,8.0,Low,11,1998,Spring
+873,d3a300d7-6a5f-4e7c-b96d-db6bc83b49cd,65,Female,High,"02268 Bryan Forge Apt. 478
+East Jacqueline, VI 04359",15e0f864-0591-47e8-ae54-eed5b7e299d4,2020-09-28,1a602f33-a426-4314-85d3-5c1d9dbb4d9d,Books,Brand_B,248.0,80.0,2.0,1.0,High,10,1991,Fall
 874,21ccabb3-bcef-4ff4-ae69-73ce5eadbade,26,Female,Medium,"54846 Dustin Glens Apt. 584
-East Stacey, CO 33225",22d2cacc-3f81-4c8d-bf01-602fecbbc2e8,2022-02-18,7e93793d-6c61-4d94-9a76-dda1e2c3bcb9,Clothing,Brand_A,469.0,30.0,6.0,4.0,High,11,2021,Summer
+East Stacey, CO 33225",22d2cacc-3f81-4c8d-bf01-602fecbbc2e8,2022-02-18,7e93793d-6c61-4d94-9a76-dda1e2c3bcb9,Clothing,Brand_A,469.0,30.0,6.0,4.0,High,10,2021,Summer
 875,a4a98b1b-850f-475d-b39c-654ce577daf7,68,Other,Medium,"PSC 3285, Box 5107
 APO AE 37587",22d2cacc-3f81-4c8d-bf01-602fecbbc2e8,2020-06-06,7398364d-2d1c-4aa4-b52d-6b9dd21fba81,Books,Brand_B,48.0,34.0,10.0,9.0,High,07,1996,Summer
 876,3c98977f-9929-4e20-ad0a-f903f6dd4838,61,Male,High,"5472 Jones Island
@@ -1597,6 +1669,8 @@ Markport, IA 16911",76f75b12-a0e9-4152-b899-10089ba5a5ce,2022-02-25,aba0444f-6ca
 South Emily, DE 27854",06cb029c-0cad-4d58-9d43-927b0216eb78,2022-08-22,37e451cf-3d4b-49d2-bb83-6e5bdabeb4a5,Clothing,Brand_C,323.0,19.0,9.0,10.0,High,05,1974,Fall
 887,f76f524b-87cb-41a3-9935-dcb9acae8e08,80,Female,High,"69296 Jeffrey Camp
 Jenniferborough, LA 57528",a1222787-6f02-46dc-91ec-0298f512a7bd,2020-08-19,ecdc472e-cd6f-4191-b487-da24faab1ea9,Electronics,Brand_C,275.0,93.0,3.0,1.0,Low,05,1986,Summer
+888,f76f524b-87cb-41a3-9935-dcb9acae8e08,60,Other,Low,"6800 Shepherd Junction
+South Donnaside, DC 63229",6c6ddc80-16f6-425b-99f4-b06428d03796,2020-07-08,ecdc472e-cd6f-4191-b487-da24faab1ea9,Clothing,Brand_A,186.0,95.0,1.0,4.0,Medium,04,2023,Fall
 889,f3be7cf7-197e-486d-b1c6-a78ddd6fcf37,42,Other,High,"61917 Berg Route
 West Anthonyhaven, MN 61241",3a74299f-e906-4808-818a-308a5466c688,2023-04-25,c96f0b05-5c07-44b0-93f8-bc69f904061e,Clothing,Brand_C,490.0,71.0,10.0,3.0,Medium,12,1983,Fall
 890,56907d40-85b9-4dc6-a348-3db091402ac0,73,Female,High,"61917 Berg Route
@@ -1605,7 +1679,9 @@ West Anthonyhaven, MN 61241",b914ada7-a5ee-42bb-9d8e-68b1729f429a,2021-10-15,8dc
 West Anthonyhaven, MN 61241",ecf31e93-12c0-48ed-ac8f-26c12ae4d8fb,2023-09-12,c3a03611-c335-475e-9dff-6acea3309539,Electronics,Brand_B,447.0,10.0,5.0,1.0,High,08,2015,Spring
 892,16776324-340f-494f-89d8-48fef26490a9,53,Male,Medium,"1888 Michelle Meadow
 Kelleyport, NV 82041",37d06a6b-7653-406d-8dd2-9161e97a2b28,2022-02-10,ec3fae29-fcba-495b-ae75-4b1013efea37,Electronics,Brand_A,458.0,60.0,6.0,5.0,Low,10,2013,Fall
-894,9facd991-1a3a-42ad-820e-1fcdbeaf5eb6,53,Other,Low,"4135 Armstrong Rapid Apt. 120
+893,6683455a-d083-4cfe-ad72-f0aa4f639f6e,22,Female,Medium,"56660 Aaron Well
+Leeshire, NY 60703",43282560-cc1e-43a2-be11-b19acbffab5b,2023-01-02,ec3fae29-fcba-495b-ae75-4b1013efea37,Electronics,Brand_B,417.0,42.0,10.0,6.0,Medium,01,1988,Spring
+894,9facd991-1a3a-42ad-820e-1fcdbeaf5eb6,22,Other,Low,"4135 Armstrong Rapid Apt. 120
 Coxmouth, GA 99461",77e1d892-3c17-48de-9644-b3d9cbbee6be,2021-11-30,0779da71-ee7e-45f7-a642-d8aa56de92e1,Books,Brand_B,65.0,26.0,7.0,9.0,Low,04,2022,Fall
 895,493e4b8c-aba9-47d8-805e-73788e52c9e9,21,Other,Low,"6079 Evans Drives
 Wayneview, UT 72616",90e8bd64-e983-4112-a5ce-a431f7494fec,2020-07-26,39fa121f-f59e-4309-91ec-ab3e76676649,Clothing,Brand_A,432.0,74.0,3.0,4.0,Low,01,2010,Winter
@@ -1632,7 +1708,9 @@ Curtisborough, MD 92070",815d6a24-1a75-4e87-a724-98d4a15e69dc,2023-06-03,21552b6
 906,14e9283f-fd65-4c75-81a0-ae06f8f6eb44,77,Other,Medium,"PSC 6562, Box 0336
 APO AE 60060",9d218efa-9c49-4a26-bb8b-abc5536d0c0e,2023-05-12,6b99d95b-f115-4aa6-ac54-b69bd11067f8,Books,Brand_B,84.0,46.0,9.0,10.0,Low,04,1995,Fall
 907,9d94fd9c-c6ed-40cd-b7c9-c23caeda5578,46,Other,Low,"694 Donna Plaza Apt. 431
-Tammyshire, GA 69160",e28dd666-4203-46b6-aea3-71e8c388f055,2023-02-22,0099d60e-b881-4a6a-aa5a-44d7df2703c9,Books,Brand_B,242.0,87.0,9.0,1.0,Low,12,2016,Fall
+Tammyshire, GA 69160",e28dd666-4203-46b6-aea3-71e8c388f055,2023-02-22,0099d60e-b881-4a6a-aa5a-44d7df2703c9,Books,Brand_B,248.0,87.0,9.0,1.0,Low,12,2016,Fall
+908,6154ad01-1977-478b-b592-991ffb340d6d,27,Female,Low,"4558 Schroeder Turnpike Suite 395
+Jeffreyfurt, IL 53564",1784b8ca-e2e6-472f-9350-9921b13e734e,2022-10-01,0099d60e-b881-4a6a-aa5a-44d7df2703c9,Books,Brand_C,48.0,43.0,10.0,5.0,Medium,12,2016,Fall
 909,3045c2cd-ac00-44af-96e7-e9d6479dcebc,34,Other,Medium,"6460 Glass Trafficway Suite 228
 Taylorborough, AR 99847",f63f37d2-301d-432f-94fc-f49f6bdad57c,2020-12-20,87ae7183-0c80-4e5b-b22f-c2dce615603d,Clothing,Brand_C,497.0,34.0,2.0,6.0,Low,09,2022,Winter
 910,0e2dde5a-acbf-4fed-861a-971a46882c43,36,Male,High,"681 Chan Land
@@ -1651,7 +1729,9 @@ New Jasonland, UT 71595",281aae93-242e-46b1-b96f-ad6ef402cc4c,2020-04-11,ce5698c
 Garzamouth, KY 73664",6e5f6168-82fc-4a8f-a986-29e482018629,2021-05-04,3410f101-2173-4eec-b6d0-1996e779c7a4,Electronics,Brand_B,114.0,9.0,5.0,9.0,Low,06,1971,Winter
 919,4d910d2b-b92d-4c60-bc11-2befc530b278,37,Other,Low,"46646 Brooks Lane Apt. 994
 Lake Joan, NE 39625",82ea9fdc-50e2-400b-92c7-b1c682081e34,2021-02-24,f922c5ab-5bd1-403d-9ee4-b4c299d793bd,Clothing,Brand_A,36.0,99.0,9.0,10.0,Medium,04,2005,Summer
-921,92551be8-1ec8-499d-976f-42c9ff88947c,66,Other,Low,"3915 Jacqueline Station
+920,b7e3aacd-ae6a-4415-b941-c0c9a769f5ff,21,Female,Medium,"PSC 7530, Box 7711
+APO AP 67242",3c05a50c-7e53-4a3d-bfe5-de8f0ea4d7f4,2022-04-15,f922c5ab-5bd1-403d-9ee4-b4c299d793bd,Electronics,Brand_A,471.0,59.0,1.0,10.0,Medium,04,1974,Winter
+921,92551be8-1ec8-499d-976f-42c9ff88947c,66,Female,Low,"3915 Jacqueline Station
 West Dariusmouth, IA 02034",c8d98edf-0489-4d6c-bf2a-18b7e371dd2f,2022-02-01,12ae4eeb-68fc-418e-9497-d7d21c174e2d,Books,Brand_B,396.0,50.0,5.0,9.0,High,08,2000,Winter
 923,5425237e-c27d-48fc-975c-33e5d382fee5,79,Other,Medium,"930 Harris Mill
 East Nicholasburgh, NM 97988",d8cfcc2a-8c06-40fa-af37-185d06775070,2022-06-27,5a308ef5-dc75-472d-aa4f-c68eeba3a1d7,Clothing,Brand_C,404.0,29.0,10.0,5.0,Medium,11,1973,Fall
@@ -1663,6 +1743,8 @@ FPO AE 95564",3d4f42bf-ef29-4bec-a181-7a76fba28f70,2020-05-17,e54a0eaf-35f5-42f6
 Smithton, NH 64915",0d58322b-a4fb-4926-81ee-92e8e0296ebc,2023-11-19,ada820e0-b941-4912-a8ea-53ebbc863af2,Clothing,Brand_B,174.0,98.0,9.0,9.0,Low,07,2021,Spring
 927,0d065150-75f2-48e1-971b-a11f60b21105,59,Other,Low,"16851 Tina Bypass
 Russoside, HI 03768",a5a47b6d-edbb-492a-93c9-6c3b808b5889,2022-02-12,68212872-f31a-4339-b733-c66ac24df141,Books,Brand_A,162.0,33.0,5.0,10.0,High,12,1996,Fall
+928,07c94a26-ceed-4e7e-91d9-79445d0afebb,38,Male,High,"945 Tamara Lights Suite 158
+Samanthaview, MN 12945",d3a50354-c836-4ebd-aa2b-db17a55b6016,2020-08-29,68212872-f31a-4339-b733-c66ac24df141,Electronics,Brand_A,63.0,50.0,9.0,5.0,High,12,1980,Summer
 929,75293932-8034-42c7-a3cf-0f5e10f90479,69,Female,High,"4532 Olivia Motorway Suite 164
 East Stephaniefurt, WY 13922",9090d987-d561-43dd-a03e-f95ec4c75093,2021-06-13,7443719c-eeff-4ad6-b602-7b2c682d0faa,Clothing,Brand_B,218.0,50.0,4.0,8.0,Low,05,1991,Winter
 930,a3beaca1-693a-4d99-ae26-358c5aab7f82,79,Other,Low,"97164 Summers Loop Suite 453
@@ -1673,8 +1755,12 @@ Riosside, PW 82307",24b2b140-6f9a-4450-bbf5-f999fa3c2d7b,2022-03-22,aeee56c7-0e6
 Lisahaven, CO 37539",ac1b5a39-3a2a-413c-aeb7-505ac4b629ff,2022-12-13,8a925b28-2139-4b73-a037-09632062ff38,Books,Brand_A,394.0,87.0,5.0,4.0,Low,10,2003,Spring
 933,6c6eeb8a-263b-48f6-a273-3bf68a2636f4,75,Male,High,"0708 Brown Stravenue Suite 498
 Michaelmouth, GA 04595",ac1b5a39-3a2a-413c-aeb7-505ac4b629ff,2022-08-14,7dd291e3-5a89-4c5b-b452-b3b58d1e5120,Clothing,Brand_A,493.0,17.0,3.0,4.0,High,10,1986,Summer
+934,e724c4b2-fc4c-489f-a689-5dd42784c69c,63,Female,Medium,"076 Henderson Parks Suite 174
+Debbiemouth, MD 69395",885ab72c-542f-4186-9177-78a4fb4418d5,2023-09-09,7dd291e3-5a89-4c5b-b452-b3b58d1e5120,Clothing,Brand_B,315.0,9.0,8.0,2.0,Low,04,1986,Spring
+935,6adde431-bb17-42e6-af37-d81b937e258c,76,Female,Medium,"5294 Michelle Gateway
+Hayesfort, DC 91812",3d964ab7-99cc-4995-add3-86ef98ecb30d,2022-05-31,7dd291e3-5a89-4c5b-b452-b3b58d1e5120,Clothing,Brand_C,404.0,12.0,3.0,1.0,Low,11,1996,Winter
 936,fd81fe51-48b3-4942-a9cd-0555a118973d,22,Male,High,"43267 Jacob Port
-Dominguezville, PW 61902",cdf6bc11-be19-4c19-a882-944c26624879,2022-08-14,cd5e259f-0d33-49e6-b92d-6553963dc1c9,Clothing,Brand_B,258.0,15.0,6.0,6.0,Low,12,1984,Winter
+Dominguezville, PW 61902",cdf6bc11-be19-4c19-a882-944c26624879,2022-05-31,cd5e259f-0d33-49e6-b92d-6553963dc1c9,Clothing,Brand_B,258.0,15.0,6.0,6.0,Low,12,1984,Winter
 937,2c103d07-3492-4f11-b603-fd4f4bb409ad,51,Other,Medium,"USNS Reed
 FPO AA 09037",e48ee651-bedf-400d-9f68-8559f3362d55,2021-08-21,9e6a4571-d8ff-45d0-b0e0-8e49aac10a05,Clothing,Brand_B,400.0,65.0,3.0,5.0,Medium,07,1980,Fall
 938,bf5348b9-66eb-45a5-b64b-25a7c3b52851,50,Female,Medium,"3953 Flores Common Suite 548
@@ -1752,11 +1838,13 @@ Jessicaland, IL 70716",80cea585-716f-4449-bc63-655ae86396cd,2021-01-09,af2e98b4-
 977,ce940a05-2464-4f0b-bfe5-f0f42cc694fb,37,Female,Low,"18961 Robin Corner Suite 212
 Garrisontown, PW 58621",c08898b0-ca5a-4a16-bf40-94f9beaf50d0,2021-08-15,e9cc278f-eea9-46ec-8ffb-3586d805bf76,Electronics,Brand_A,70.0,32.0,5.0,9.0,Low,10,1978,Summer
 978,692764df-73c9-4463-b4d6-99618c4f3843,58,Other,High,"47063 Smith Causeway Suite 999
-Port Sophia, VA 45649",d4b74943-9b7d-424e-b99e-8aadf2b9f31a,2021-08-13,2f9062f5-092a-4ec4-a678-1bc57b5aa5ea,Clothing,Brand_A,242.0,14.0,8.0,9.0,High,03,1998,Spring
+Port Sophia, VA 45649",d4b74943-9b7d-424e-b99e-8aadf2b9f31a,2021-08-13,2f9062f5-092a-4ec4-a678-1bc57b5aa5ea,Clothing,Brand_A,248.0,14.0,8.0,9.0,High,03,1998,Spring
 979,93e4ecab-4623-49d5-b677-215639477674,63,Other,Medium,"4899 Townsend Route Apt. 447
 New Evan, MI 80215",6c49b0b7-3761-4c86-891c-638979d438c9,2022-12-29,1effc8b0-ef72-460f-b533-37f99982bea7,Electronics,Brand_B,129.0,70.0,2.0,2.0,High,01,1995,Spring
+980,2cb1cb69-4a09-4772-b711-c2bbecc5b3cf,28,Male,High,"4246 Morrison Mills
+Penafurt, KS 90382",247d6c11-5b1d-4a18-8359-d6bc67dfdc10,2022-11-16,1effc8b0-ef72-460f-b533-37f99982bea7,Clothing,Brand_B,141.0,21.0,8.0,9.0,High,02,2003,Summer
 981,9e577fd4-f3e1-4fad-9ba0-0787608649f4,28,Female,Low,"94470 Daniels Glens Suite 496
-Dunnland, NH 11693",cd038995-3812-494b-876f-925ebf442238,2020-09-16,3a078d7a-56f1-4c59-baac-e700856e3bfc,Electronics,Brand_C,308.0,54.0,7.0,5.0,Medium,12,2010,Spring
+Dunnland, NH 11693",cd038995-3812-494b-876f-925ebf442238,2020-09-16,3a078d7a-56f1-4c59-baac-e700856e3bfc,Electronics,Brand_C,308.0,54.0,7.0,5.0,Medium,12,2010,Summer
 982,53803145-c8e2-4f42-8958-baabcd22b551,23,Female,High,"00452 Shawn Plaza Apt. 569
 Port Williammouth, MA 41116",be847b67-2dfc-47b9-8049-be0b45a19f48,2022-12-09,5d09d1da-4685-4c3a-be84-ccc236a149f1,Electronics,Brand_C,286.0,44.0,9.0,7.0,Medium,12,1990,Spring
 983,65bf7ba5-ae48-441a-bc3f-a0793a64174a,34,Male,Low,"89858 Clark Estates Apt. 129
@@ -1777,6 +1865,8 @@ South Edwardchester, CA 50328",f776f587-5a4e-449c-9519-ef3ff9c8e734,2022-12-25,7
 DPO AA 76845",d9f9dd67-3826-46ac-aab8-64fb8f7d636d,2020-12-08,002c5e15-47ab-452a-aa2e-b03146bc9462,Electronics,Brand_B,287.0,19.0,6.0,3.0,Medium,11,2010,Spring
 991,62c73378-cfbf-4896-9243-61de7de9acc7,37,Female,Low,"91116 Bradley Islands
 West Meghan, PR 35083",adf48b82-b240-4827-b03a-c8d37a8d3e4c,2020-10-05,3ce3fd4f-4a0e-4c99-abbe-a4926ad76e9e,Electronics,Brand_A,222.0,50.0,1.0,10.0,High,11,2011,Summer
+992,6dad049b-01f4-406c-81b1-eac9b4068325,80,Other,Low,"863 Bailey Square Apt. 369
+North James, CT 25689",30a4db47-f903-441a-aede-beb0f009f5b3,2020-12-11,3ce3fd4f-4a0e-4c99-abbe-a4926ad76e9e,Clothing,Brand_A,398.0,78.0,8.0,10.0,Medium,02,2011,Fall
 993,53c5fb01-3ee3-4cad-beab-fcfa3c03bfe3,57,Male,Medium,"7406 Pugh Roads Apt. 254
 Beardfurt, MA 17468",16642cb2-49d1-43ee-a37e-0c59a14bfc50,2022-08-25,41cf36ca-c19d-4fee-b894-68b5afcf186d,Electronics,Brand_C,127.0,59.0,10.0,8.0,Low,05,1990,Fall
 994,b17a7ab6-f7c6-4f76-81e4-2b7536730065,65,Female,High,"0676 Gonzalez Pike Apt. 421
@@ -1786,6 +1876,6 @@ Port Holly, OK 22329",776be313-5308-468e-a0ed-7409a4303364,2023-03-17,1802f115-8
 996,2116266d-8d1c-48cc-ac28-e4e675cb2a4d,78,Female,Low,"45710 Wilson Circles Apt. 411
 Walterton, NC 81543",51f771bf-2562-46c1-a25d-2f46f4bb1525,2023-08-30,546d8d8f-1498-4aa9-8123-29550d911a17,Books,Brand_B,176.0,53.0,3.0,3.0,Medium,09,1977,Winter
 998,84da2eea-6e9e-46d4-8d94-1e9b0c377d78,43,Male,High,"1129 Kirby Ferry Suite 743
-Billyfurt, UT 41587",4d2e213e-bcc0-4a8a-9501-6ca8361381c4,2021-05-13,51ed2d86-c9ab-4922-a8ff-469acf6ac91e,Clothing,Brand_C,242.0,98.0,8.0,7.0,Low,03,2000,Winter
+Billyfurt, UT 41587",4d2e213e-bcc0-4a8a-9501-6ca8361381c4,2021-05-13,51ed2d86-c9ab-4922-a8ff-469acf6ac91e,Clothing,Brand_C,248.0,98.0,8.0,7.0,Low,03,2000,Winter
 999,87629baf-a138-4374-be37-8bab776379b8,19,Other,High,"896 Troy Branch
 Amytown, NJ 62321",69afa592-2658-48ac-9b37-33a3a473d0be,2022-09-13,91ba2109-15aa-40a0-aa9c-732a1e2e1e27,Clothing,Brand_B,208.0,12.0,10.0,1.0,Medium,12,1970,Summer
