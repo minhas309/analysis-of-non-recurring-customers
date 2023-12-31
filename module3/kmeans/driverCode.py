@@ -1,11 +1,11 @@
 import pandas as pd
 import elbowMethod
 import clusterQuality.silhouetteAnalysis as silhouetteAnalysis
-import kmeans
+import kmeanspp
 from plotting.brandAffinityPerCluster import brandAffinityPerCluster
 from plotting.prodCatPerCluster import productCategoryPerCluster
 from plotting.scatter3D import scatter3DPlot
-# Load the data
+# Load the data 
 data = pd.read_csv('transformations/normalization.csv')
 data = data.drop(['Unnamed: 0'], axis=1)
 original_data = data.copy()
@@ -19,11 +19,10 @@ def kMeansDriverCode(data, original_data):
     silhouetteAnalysis.silhouetteAnalysis(clustering_data=data)
 
     # K-Means
-    data = kmeans.kMeansAlgorithm(data, clustering_data=original_data, clusters=5)
+    data = kmeanspp.kMeansAlgorithmPP(data, clustering_data=original_data, clusters=5)
 
     # Plotting 
     brandAffinityPerCluster(data)
     productCategoryPerCluster(data)
-    scatter3DPlot(data)
 
 kMeansDriverCode(data, original_data)

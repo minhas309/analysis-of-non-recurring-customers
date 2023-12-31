@@ -1,7 +1,7 @@
 import pandas as pd
 import algorithm
 from plotting.algoPlot import algorithmPlot
-# Load the data
+
 data = pd.read_csv('transformations/normalization.csv')
 data = data.drop(['Unnamed: 0'], axis=1)
 columns_to_drop = [col for col in data.columns if col.startswith('o')]

@@ -13,3 +13,4 @@ def brandAffinityPerCluster(data):
     plt.ylabel('Brand')
     plt.xlabel('Cluster')
     plt.show()
+    

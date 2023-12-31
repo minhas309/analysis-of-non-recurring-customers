@@ -6,7 +6,6 @@ def productCategoryPerCluster(data):
     product_category_cols = data.columns[data.columns.isin(['Product_Category_Books', 'Product_Category_Electronics', 'Product_Category_Clothing'])]
     clustered_preferences = data.groupby('Cluster')[product_category_cols].mean()
 
-    # Transposing for easier plotting
     clustered_preferences_transposed = clustered_preferences.transpose()
 
     # Plotting

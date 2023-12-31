@@ -3,7 +3,6 @@ from sklearn.metrics import silhouette_score
 
 def dbScanAlgorithm(data, eps, min_samples):
 
-    # Apply DBSCAN
     dbscan = DBSCAN(eps=eps, min_samples=min_samples)
     labels = dbscan.fit_predict(data)
 

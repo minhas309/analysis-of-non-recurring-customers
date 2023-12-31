@@ -6,40 +6,37 @@ import numpy as np
 from sklearn.decomposition import PCA
 
 def kMeansAlgorithmPP(data, clustering_data, clusters):
-    # Define the number of clusters
     k_optimal = clusters
 
-    # Choose the number of components (in this case, 2)
     pca = PCA(n_components=2)
     reduced_data = pca.fit_transform(clustering_data)
 
-    # Implement K-Means
     kmeans = KMeans(n_clusters=k_optimal, init='k-means++', random_state=0)
     cluster_labels = kmeans.fit_predict(reduced_data)
 
-    # Adding cluster labels to the dataset for analysis
     data['Cluster'] = cluster_labels
+    clustering_data['Cluster'] = cluster_labels
 
-    # Group the data by clusters
-    cluster_groups = data.groupby('Cluster')
+    cluster_groups = clustering_data.groupby('Cluster')
 
     plt.scatter(reduced_data[:, 0], reduced_data[:, 1], c=cluster_labels, cmap='viridis')
-    plt.title('KMeans Clustering')
+    plt.title('KMeans++ Clustering')
     plt.xlabel('Principal Component 1')
     plt.ylabel('Principal Component 2')
     plt.show()
     # Analyze each cluster
-    for cluster in range(k_optimal):
-        cluster_data = cluster_groups.get_group(cluster)
-        print(f"Cluster {cluster} characteristics:")
-        
-        # Calculate and display key features of each cluster
-        average_purchase = cluster_data['Purchase_Amount'].mean()
-        average_frequency = cluster_data['Purchase_Frequency_Per_Month'].mean()
-        average_brand_affinity = cluster_data['Brand_Affinity_Score'].mean()
+    cluster_averages = cluster_groups.agg({
+    'oPurchase_Amount': 'mean',
+    'oPurchase_Frequency_Per_Month': 'mean',
+    'oBrand_Affinity_Score': 'mean'
+    }).reset_index()
 
-        print(f"Average Purchase Amount: {average_purchase}")
-        print(f"Average Purchase Frequency Per Month: {average_frequency}")
-        print(f"Average Brand Affinity Score: {average_brand_affinity}\n")
+    cluster_averages.rename(columns={
+        'Purchase_Amount': 'Average_Purchase',
+        'Purchase_Frequency_Per_Month': 'Average_Frequency',
+        'Brand_Affinity_Score': 'Average_Brand_Affinity'
+    }, inplace=True)
 
+    print(cluster_averages)
+    
     return data

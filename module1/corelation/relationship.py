@@ -2,7 +2,6 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-# Read your dataset into a DataFrame
 data = pd.read_csv('transformations/normalization.csv')
 columns_to_drop = ['Unnamed: 0', 'Customer_ID', 'Address', 'Transaction_ID', 'Purchase_Date', 'Product_ID', 'Brand', 'Month', 'Year', 'Season']
 clustering_data = data 

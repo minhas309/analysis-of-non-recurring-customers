@@ -17,3 +17,4 @@ def normalization(df, columns_to_drop):
     final_df = pd.concat([df_, normalized_df], axis=1)
 
     final_df.to_csv('transformations/normalization.csv')
+    print(final_df.head())

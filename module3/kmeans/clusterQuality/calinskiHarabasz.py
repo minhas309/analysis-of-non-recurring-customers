@@ -7,7 +7,7 @@ data = data.drop(['Unnamed: 0'], axis=1)
 columns_to_drop = [col for col in data.columns if col.startswith('o')]
 data = data.drop(columns=columns_to_drop)
 
-kmeans = KMeans(n_clusters=3, random_state=0)
+kmeans = KMeans(n_clusters=5, random_state=0)
 labels = kmeans.fit_predict(data)
 
 # Calculate the Calinski-Harabasz score

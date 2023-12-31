@@ -3,7 +3,6 @@ from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 
 def elbowMethod(clusteredData):
-    # Apply K-Means and find inertia
     inertia = []
     for i in range(1, 11):
         kmeans = KMeans(n_clusters=i, random_state=0)

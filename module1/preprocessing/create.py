@@ -4,7 +4,6 @@ import os
 def get_DataSet():
     script_dir = os.path.dirname(__file__)
     file_path = os.path.join(script_dir, '../../data/electronics.json')
-
     try:
         df = pd.read_json(file_path)
         return df

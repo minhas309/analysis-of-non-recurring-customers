@@ -7,7 +7,6 @@ data.drop(['Unnamed: 0'], axis=1, inplace=True)
 columns_to_drop = [col for col in data.columns if col.startswith('o')]
 data.drop(columns=columns_to_drop, inplace=True)
 
-# Perform DBScan clustering
 dbscan = DBSCAN(eps=0.5, min_samples=1)
 labels = dbscan.fit_predict(data)
 

@@ -1,5 +1,6 @@
 # Clustering Analysis Report for Imtiaz Mall
 
+
 ## Overview
 This report presents a concise clustering analysis of customer data from Imtiaz Mall, focusing on the electronics section. We compare three or rather two clustering algorithms - K-Means (K-Means++), And DBSCAN - to identify distinct customer segments, offering strategies for customer retention and sales growth.
 
