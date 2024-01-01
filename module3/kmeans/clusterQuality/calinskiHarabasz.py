@@ -14,3 +14,4 @@ labels = kmeans.fit_predict(data)
 calinski_harabasz_index = calinski_harabasz_score(data, labels)
 
 print(f"Calinski-Harabasz Index: {calinski_harabasz_index}")
+ 

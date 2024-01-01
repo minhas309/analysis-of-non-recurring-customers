@@ -21,7 +21,7 @@ def kMeansAlgorithm(data, clustering_data, clusters):
     cluster_groups = clustering_data.groupby('Cluster')
 
     plt.scatter(reduced_data[:, 0], reduced_data[:, 1], c=cluster_labels, cmap='viridis')
-    plt.title('KMeans++ Clustering')
+    plt.title('KMeans Clustering')
     plt.xlabel('Principal Component 1')
     plt.ylabel('Principal Component 2')
     plt.show()

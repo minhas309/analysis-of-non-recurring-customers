@@ -11,6 +11,8 @@ data = data.drop(['Unnamed: 0'], axis=1)
 original_data = data.copy()
 columns_to_drop = [col for col in data.columns if col.startswith('o')]
 data = data.drop(columns=columns_to_drop)
+
+data_dataset = pd.read_csv('cleaned/data.csv')
 def kMeansDriverCode(data, original_data):
     # Apply Elbow Method
     elbowMethod.elbowMethod(data)
@@ -20,6 +22,8 @@ def kMeansDriverCode(data, original_data):
 
     # K-Means
     data = kmeanspp.kMeansAlgorithmPP(data, clustering_data=original_data, clusters=5)
+    data_dataset['cluster'] = data['Cluster']
+    data_dataset.to_csv('cleaned/data.csv', index=False)
 
     # Plotting 
     brandAffinityPerCluster(data)

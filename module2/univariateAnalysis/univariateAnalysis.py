@@ -22,6 +22,8 @@ plt.title('Gender Distribution')
 plt.xlabel('Gender')
 plt.ylabel('Count')
 
+print(electronics_df.Gender.value_counts())
+
 # 3: Box Plot for Purchase Amount
 plt.subplot(2, 2, 3)
 sns.boxplot(y='Purchase_Amount', data=electronics_df, width=.2)
